@@ -1,7 +1,6 @@
 abate: to lessen
 aberration: a deviation from the norm
 abhor: to hate
-abstruse: difficult to understand
 accolade: praise or distinction
 acrimony: bitterness or hostility
 acumen: keen insight
@@ -92,7 +91,6 @@ iconoclast: one who attacks traditions
 idiosyncrasy: personal peculiarity
 imminent: about to happen
 impetuous: impulsive
-implacable: cannot be calmed
 impugn: to call into question
 inane: silly
 indigent: poor
@@ -168,7 +166,6 @@ pedestrian: ordinary
 penchant: a strong liking
 pensive: thoughtful
 perfidious: disloyal
-perfunctory: done without care
 permeate: to spread throughout
 perseverance: persistence
 peruse: to read carefully
