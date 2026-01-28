@@ -34,7 +34,6 @@ coerce: to force
 cogent: convincing
 cohesive: unified
 collaborate: to work together
-complacent: self-satisfied
 concise: brief and to the point
 condone: to overlook or forgive
 conundrum: a difficult problem
@@ -635,7 +634,6 @@ veracious: truthful
 verbosity: wordiness
 veritable: used as intensifier
 viscid: sticky
-vituperative: bitter and abusive
 volubility: talking fluently
 waft: to pass gently
 wheedle: to persuade by flattery
@@ -647,7 +645,6 @@ anomalous: abnormal or irregular
 cacophonous: discordant
 castigation: punishment; severe criticism
 compliant: yielding
-contrite: penitent
 converge: to approach; come together
 daunt: to intimidate
 decorum: propriety; good taste
