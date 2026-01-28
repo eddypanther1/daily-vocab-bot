@@ -343,7 +343,6 @@ vindictive: seeking revenge
 virtuoso: a master
 virulent: harmful
 viscous: thick and sticky
-visionary: a dreamer
 vital: essential
 vituperate: to scold
 vivacious: lively
@@ -665,7 +664,6 @@ futile: useless; hopeless
 homogenous: of the same kind
 intransigence: refusal of any compromise
 itinerary: plan of a trip
-latent: potential but undeveloped
 log: record of a voyage
 magnanimity: generosity
 malingerer: one who feigns illness
@@ -682,6 +680,5 @@ reverent: respectful
 sage: person celebrated for wisdom
 skeptic: doubter
 spectrum: colored band
-strut: supporting bar; pompous walk
 viable: practical
 warranted: justified
