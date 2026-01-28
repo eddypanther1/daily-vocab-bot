@@ -48,10 +48,31 @@ def send_email(words_data):
     msg["From"] = sender_email
     msg["To"] = receiver_email
 
-    html_content = f"<html><body><h2>Daily Vocabulary ({current_time})</h2><hr>"
+    # Build HTML
+    html_content = f"""
+    <html>
+      <body style="font-family: sans-serif; color: #333;">
+        <h2>({current_time})</h2>
+        <hr>
+    """
     for item in words_data:
-        html_content += f"<h3>{item['word'].capitalize()}</h3><p>{item['definition']}</p><br>"
-    html_content += "<hr><p>Source: sat.txt</p></body></html>"
+        html_content += f"""
+        <div style="margin-bottom: 25px; padding: 15px; background-color: #f9f9f9; border-left: 5px solid #27ae60;">
+            <h3 style="margin: 0 0 10px 0; color: #2c3e50;">
+                {item['word'].capitalize()}
+            </h3>
+            <p style="margin: 0; font-size: 1.1em; line-height: 1.5;">
+                {item['definition']}
+            </p>
+        </div>
+        """
+
+    html_content += """
+        <hr>
+        <p style="font-size: 0.8em; color: #95a5a6;">Source: sat.txt</p>
+      </body>
+    </html>
+    """
     
     part = MIMEText(html_content, "html")
     msg.attach(part)
