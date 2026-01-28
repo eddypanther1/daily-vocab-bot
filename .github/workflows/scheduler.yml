@@ -13,6 +13,8 @@ on:
 jobs:
   send-email-job:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Code
@@ -34,3 +36,11 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: |
           python daily_word.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add sat.txt used_words.txt
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Archive used words" && git push)
