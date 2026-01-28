@@ -85,7 +85,6 @@ gregarious: sociable
 guile: deceit
 hackneyed: overused
 haphazard: random
-harangue: a long ranting speech
 hedonist: pleasure-seeker
 heresy: against orthodox opinion
 hinder: to obstruct
@@ -488,7 +487,6 @@ endemic: regularly found in area
 enervate: to drain of energy
 engender: to cause or give rise to
 ennui: boredom
-equivocate: to use ambiguous language
 erudite: showing great knowledge
 euphemism: mild word for harsh one
 exculpate: to clear from blame
@@ -539,7 +537,6 @@ implicit: implied
 implode: collapse inward
 impunity: exemption from punishment
 inadvertently: accidentally
-inchoate: not fully formed
 incongruity: out of keeping
 inconsequential: not important
 incontrovertible: undeniable
