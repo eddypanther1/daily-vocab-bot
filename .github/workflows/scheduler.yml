@@ -1,0 +1,36 @@
+name: Email Vocabulary Bot
+
+on:
+  schedule:
+    # 21:58 UTC (06:58 JST)
+    # 02:58 UTC (11:58 JST)
+    # 06:58 UTC (15:58 JST)
+    - cron: '58 21,2,6 * * *'
+  
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  send-email-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Script
+        env:
+          # These secrets must be set in GitHub Repo Settings
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python daily_word.py

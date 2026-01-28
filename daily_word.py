@@ -1,0 +1,92 @@
+import smtplib
+import ssl
+import os
+import random
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from datetime import datetime
+import pytz
+
+def load_words_from_file(filename="sat.txt"):
+    """Reads 'word: definition' lines from a text file."""
+    word_list = []
+    if not os.path.exists(filename):
+        print(f"Error: {filename} not found.")
+        return []
+
+    with open(filename, "r", encoding="utf-8") as f:
+        for line in f:
+            if not line.strip(): continue # Skip empty lines
+            
+            # Split only on the first colon found
+            if ":" in line:
+                parts = line.split(":", 1)
+                word = parts[0].strip()
+                definition = parts[1].strip()
+                word_list.append({"word": word, "definition": definition})
+    return word_list
+
+def send_email(words_data):
+    sender_email = os.environ["GMAIL_USER"]
+    password = os.environ["GMAIL_APP_PASSWORD"]
+    receiver_email = "eddypanther1@gmail.com"
+
+    # Current time in Tokyo
+    tokyo_tz = pytz.timezone('Asia/Tokyo')
+    current_time = datetime.now(tokyo_tz).strftime('%Y-%m-%d %H:%M')
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = f"🧠 Daily SAT Vocab: {words_data[0]['word']} and others ({current_time})"
+    msg["From"] = sender_email
+    msg["To"] = receiver_email
+
+    # Build HTML
+    html_content = f"""
+    <html>
+      <body style="font-family: sans-serif; color: #333;">
+        <h2>Daily Vocabulary Refresh ({current_time})</h2>
+        <hr>
+    """
+    
+    for item in words_data:
+        html_content += f"""
+        <div style="margin-bottom: 25px; padding: 15px; background-color: #f9f9f9; border-left: 5px solid #27ae60;">
+            <h3 style="margin: 0 0 10px 0; color: #2c3e50;">
+                {item['word'].capitalize()}
+            </h3>
+            <p style="margin: 0; font-size: 1.1em; line-height: 1.5;">
+                {item['definition']}
+            </p>
+        </div>
+        """
+
+    html_content += """
+        <hr>
+        <p style="font-size: 0.8em; color: #95a5a6;">Source: sat.txt</p>
+      </body>
+    </html>
+    """
+
+    part = MIMEText(html_content, "html")
+    msg.attach(part)
+
+    context = ssl.create_default_context()
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+        server.login(sender_email, password)
+        server.sendmail(sender_email, receiver_email, msg.as_string())
+        print(f"Email sent with {len(words_data)} words.")
+
+if __name__ == "__main__":
+    # 1. Load words
+    all_words = load_words_from_file("sat.txt")
+    
+    if not all_words:
+        print("No words found in sat.txt!")
+        exit(1)
+
+    # 2. Pick 3 random words
+    count = min(3, len(all_words))
+    selected_words = random.sample(all_words, count)
+    
+    # 3. Send Email
+    send_email(selected_words)
