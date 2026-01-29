@@ -102,7 +102,6 @@ insatiable: cannot be satisfied
 insular: narrow-minded
 intrepid: fearless
 inundate: to flood
-irascible: easily angered
 irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
@@ -200,7 +199,6 @@ profound: deep
 prolific: productive
 propensity: a tendency
 propitious: favorable
-prosaic: dull
 prosperous: wealthy
 provincial: narrow-minded
 prudent: careful
@@ -494,7 +492,6 @@ fatuous: silly and pointless
 fawning: exaggerated flattery
 fecund: fertile
 felicitous: well chosen
-ferret: to search out
 fervent: passionate intensity
 fervid: intensely enthusiastic
 flag: to become tired
