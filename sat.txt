@@ -231,7 +231,6 @@ remorse: regret
 renounce: to give up
 reprehensible: deserving blame
 repudiate: to reject
-rescind: to cancel
 resilient: able to recover
 resolute: determined
 respite: a break
@@ -386,7 +385,6 @@ antipathy: deep-seated dislike
 apocryphal: of doubtful authenticity
 appease: to pacify
 apprise: to inform
-approbation: approval or praise
 appropriate: to take for one's own use
 artless: without guile
 ascetic: severe self-discipline
@@ -521,7 +519,6 @@ ignominious: deserving shame
 immutable: unchanging
 impair: to weaken
 impassive: not showing emotion
-impede: to delay
 impermeable: not allowing fluid through
 imperturbable: calm
 impervious: unable to be affected
