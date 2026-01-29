@@ -187,7 +187,6 @@ precocious: talented at a young age
 predecessor: one who came before
 predicament: a difficult situation
 premonition: a feeling of future event
-presumptuous: too forward
 pretentious: showy
 prevalent: widespread
 pristine: pure
@@ -376,7 +375,6 @@ aggregate: a sum total
 alleviate: to make suffering less severe
 amalgamate: to combine or unite
 ambiguous: open to more than one interpretation
-ambivalence: mixed feelings
 ameliorate: to make something better
 anachronism: something out of place in time
 analogous: comparable
@@ -596,7 +594,6 @@ saturate: to soak thoroughly
 savor: to enjoy
 secrete: to produce and discharge
 shard: piece of broken material
-skeptical: having doubts
 specious: superficially plausible
 stint: allotted period of work
 stipulate: to demand
