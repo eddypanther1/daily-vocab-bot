@@ -5,7 +5,7 @@ on:
     # 21:58 UTC (06:58 JST)
     # 02:58 UTC (11:58 JST)
     # 06:58 UTC (15:58 JST)
-    - cron: '58 21,2,6 * * *'
+    - cron: '17 21,2,6 * * *'
   
   # Allow manual trigger for testing
   workflow_dispatch:
