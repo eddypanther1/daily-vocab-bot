@@ -265,7 +265,6 @@ shrewd: clever
 shroud: to cover
 sloth: laziness
 solicitous: concerned
-somber: gloomy
 sophomoric: immature
 soporific: causing sleep
 spartan: simple and severe
@@ -457,7 +456,6 @@ disjointed: lacking connection
 dismiss: to treat as unworthy
 disparate: essentially different
 dispassionate: rational and impartial
-dissemble: to conceal true motives
 dissolution: closing down
 dissonance: lack of harmony
 distend: to swell
@@ -519,7 +517,6 @@ impermeable: not allowing fluid through
 imperturbable: calm
 impervious: unable to be affected
 implicit: implied
-implode: collapse inward
 impunity: exemption from punishment
 inadvertently: accidentally
 incongruity: out of keeping
