@@ -67,7 +67,6 @@ esoteric: understood by few
 eulogy: speech of praise
 exacerbate: worsen
 exemplary: outstanding
-exonerate: to free from blame
 extol: to praise
 fallacy: a mistaken belief
 fastidious: very careful
@@ -444,7 +443,6 @@ dichotomy: contrast between two things
 diffident: modest or shy
 diffuse: to spread over wide area
 digression: temporary departure from subject
-dilatory: slow to act
 dilettante: amateur
 dirge: lament for the dead
 disabuse: to persuade someone belief is mistaken
@@ -618,7 +616,6 @@ unwitting: not aware
 usury: illegal lending
 vacillation: wavering
 veneration: deep respect
-veracious: truthful
 verbosity: wordiness
 veritable: used as intensifier
 viscid: sticky
