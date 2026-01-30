@@ -208,7 +208,6 @@ querulous: complaining
 quiescent: inactive
 quintessential: the most perfect example
 quixotic: overly idealistic
-rancorous: bitter
 rapport: a close relationship
 rash: impulsive
 ratify: to approve
@@ -369,7 +368,6 @@ admonish: to warn or reprimand
 adulation: excessive praise
 adulterate: to make something poorer in quality
 aesthetic: concerned with beauty
-aggregate: a sum total
 alleviate: to make suffering less severe
 amalgamate: to combine or unite
 ambiguous: open to more than one interpretation
@@ -509,7 +507,6 @@ homogeneous: of the same kind
 hubris: excessive pride
 hyperbole: exaggerated statements
 idolatry: worship of idols
-ignominious: deserving shame
 immutable: unchanging
 impair: to weaken
 impassive: not showing emotion
