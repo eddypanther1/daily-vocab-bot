@@ -383,7 +383,6 @@ artless: without guile
 ascetic: severe self-discipline
 assiduous: showing great care
 assuage: to soothe
-astringent: sharp or severe
 asylum: protection granted by a state
 attenuate: to reduce force or value
 audacious: bold risks
@@ -480,7 +479,6 @@ felicitous: well chosen
 fervent: passionate intensity
 fervid: intensely enthusiastic
 flag: to become tired
-fledgling: inexperienced
 florid: red complexion or intricate
 flout: to openly disregard
 foment: to instigate
@@ -622,7 +620,6 @@ compliant: yielding
 converge: to approach; come together
 daunt: to intimidate
 decorum: propriety; good taste
-default: failure to act
 deterrent: something that discourages
 diffidence: shyness
 divest: to strip; deprive
