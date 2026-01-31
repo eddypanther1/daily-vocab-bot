@@ -422,7 +422,6 @@ convoluted: extremely complex
 corroborate: to confirm
 craven: cowardly
 credulous: gullible
-culpable: deserving blame
 debilitate: to make weak
 decorous: in keeping with good taste
 deference: humble submission
@@ -455,7 +454,6 @@ dissolution: closing down
 dissonance: lack of harmony
 distend: to swell
 distill: to extract essential meaning
-doctrinaire: imposing doctrine
 dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
@@ -628,7 +626,6 @@ default: failure to act
 deterrent: something that discourages
 diffidence: shyness
 divest: to strip; deprive
-document: to provide written evidence
 dormant: sleeping; lethargic
 enhance: to increase; improve
 extrapolation: projection; conjecture
