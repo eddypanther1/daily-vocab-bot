@@ -236,7 +236,6 @@ restorative: having the power to restore
 reticent: silent
 revere: to respect deeply
 reverence: deep respect
-rhetoric: the art of speaking
 robust: strong
 rouse: to wake up
 rudimentary: basic
@@ -424,7 +423,6 @@ corroborate: to confirm
 craven: cowardly
 credulous: gullible
 culpable: deserving blame
-dearth: scarcity
 debilitate: to make weak
 decorous: in keeping with good taste
 deference: humble submission
@@ -434,7 +432,6 @@ demur: to raise doubts
 denigrate: to criticize unfairly
 derivative: imitative
 desiccate: to remove moisture
-desultory: lacking a plan
 diatribe: bitter verbal attack
 dichotomy: contrast between two things
 diffident: modest or shy
