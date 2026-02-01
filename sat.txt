@@ -31,11 +31,9 @@ censure: to criticize harshly
 chicanery: trickery
 coerce: to force
 cogent: convincing
-cohesive: unified
 collaborate: to work together
 concise: brief and to the point
 condone: to overlook or forgive
-conundrum: a difficult problem
 copious: abundant
 cursory: hasty
 dauntless: fearless
@@ -334,7 +332,6 @@ vital: essential
 vituperate: to scold
 vivacious: lively
 vociferous: loud
-volatile: unstable
 voluminous: large
 voracious: very hungry
 wane: to decrease
