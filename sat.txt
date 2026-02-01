@@ -329,7 +329,6 @@ vilify: to speak ill of
 vindicate: to clear from blame
 vindictive: seeking revenge
 virtuoso: a master
-virulent: harmful
 viscous: thick and sticky
 vital: essential
 vituperate: to scold
@@ -374,7 +373,6 @@ ameliorate: to make something better
 anachronism: something out of place in time
 analogous: comparable
 anathema: something vehemently disliked
-antipathy: deep-seated dislike
 apocryphal: of doubtful authenticity
 appease: to pacify
 apprise: to inform
@@ -562,7 +560,6 @@ precursor: forerunner
 prevaricate: to speak evasively
 probity: honesty
 problematic: constituting a problem
-proliferate: to increase rapidly
 propitiate: to win favor
 propriety: conforming to standards
 proscribe: to forbid
