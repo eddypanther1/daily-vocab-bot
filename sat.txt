@@ -277,7 +277,6 @@ submissive: yielding
 substantiate: to prove
 subtle: not obvious
 subvert: to undermine
-succinct: brief
 succulent: juicy
 supercilious: arrogant
 superfluous: unnecessary
@@ -390,7 +389,6 @@ beneficent: generous
 berate: to scold angrily
 blight: a thing that damages
 blithe: casual and cheerful indifference
-bolster: to support
 boorish: rough and bad-mannered
 burgeon: to grow rapidly
 burnish: to polish
@@ -468,7 +466,6 @@ facetious: flippant humor
 facilitate: to make easier
 fallacious: based on mistaken belief
 fatuous: silly and pointless
-fawning: exaggerated flattery
 fecund: fertile
 felicitous: well chosen
 fervent: passionate intensity
