@@ -124,7 +124,6 @@ mollify: to soothe
 monotony: lack of variation
 mundane: ordinary
 myriad: a great number
-nefarious: wicked
 negligent: careless
 neophyte: a beginner
 nocturnal: active at night
@@ -261,7 +260,6 @@ shrewd: clever
 shroud: to cover
 sloth: laziness
 solicitous: concerned
-sophomoric: immature
 soporific: causing sleep
 spartan: simple and severe
 sporadic: irregular
@@ -451,7 +449,6 @@ efficacy: effectiveness
 effrontery: insolent boldness
 elegy: poem of reflection
 elicit: to evoke
-embellish: to make more attractive
 empirical: based on observation
 endemic: regularly found in area
 enervate: to drain of energy
