@@ -22,7 +22,6 @@ banal: boring, unoriginal
 bellicose: warlike
 benign: harmless
 bombastic: pompous in speech
-brevity: briefness
 cacophony: harsh noise
 candid: honest
 capitulate: surrender
@@ -79,7 +78,6 @@ garrulous: talkative
 gregarious: sociable
 guile: deceit
 hackneyed: overused
-haphazard: random
 hedonist: pleasure-seeker
 heresy: against orthodox opinion
 hinder: to obstruct
@@ -625,7 +623,6 @@ malingerer: one who feigns illness
 porous: full of pores
 preamble: introductory statement
 prohibitive: tending to prevent
-rarefied: made less dense
 recant: to disclaim; retract
 reproach: to express disapproval
 reprobate: person hardened in sin
