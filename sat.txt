@@ -331,7 +331,6 @@ wary: cautious
 wax: to increase
 whimsical: playful
 wily: clever
-wistful: longing
 withdraw: to pull back
 wither: to dry up
 withhold: to hold back
@@ -482,7 +481,6 @@ hubris: excessive pride
 hyperbole: exaggerated statements
 idolatry: worship of idols
 immutable: unchanging
-impair: to weaken
 impassive: not showing emotion
 impermeable: not allowing fluid through
 imperturbable: calm
@@ -490,7 +488,6 @@ impervious: unable to be affected
 implicit: implied
 impunity: exemption from punishment
 inadvertently: accidentally
-incongruity: out of keeping
 inconsequential: not important
 incontrovertible: undeniable
 incorporate: to include
