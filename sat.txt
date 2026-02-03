@@ -114,7 +114,6 @@ malevolent: having evil intent
 malleable: capable of being shaped
 maverick: an independent-minded person
 meager: small in quantity
-meander: to wander aimlessly
 meticulous: very careful
 mitigate: to make less severe
 modicum: a small amount
@@ -290,9 +289,7 @@ temperance: moderation
 tenacious: persistent
 tentative: uncertain
 tenuous: weak
-terse: brief
 timorous: fearful
-torpor: laziness
 torrid: very hot
 tractable: easily managed
 transient: short-lived
