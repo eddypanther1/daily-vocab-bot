@@ -414,7 +414,6 @@ defunct: no longer existing
 delineate: to describe precisely
 demur: to raise doubts
 denigrate: to criticize unfairly
-derivative: imitative
 desiccate: to remove moisture
 diatribe: bitter verbal attack
 dichotomy: contrast between two things
@@ -449,7 +448,6 @@ endemic: regularly found in area
 enervate: to drain of energy
 engender: to cause or give rise to
 ennui: boredom
-erudite: showing great knowledge
 euphemism: mild word for harsh one
 exculpate: to clear from blame
 exigency: urgent need
@@ -458,7 +456,6 @@ facetious: flippant humor
 facilitate: to make easier
 fallacious: based on mistaken belief
 fatuous: silly and pointless
-fecund: fertile
 felicitous: well chosen
 fervent: passionate intensity
 fervid: intensely enthusiastic
