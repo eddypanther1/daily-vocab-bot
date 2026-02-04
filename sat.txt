@@ -256,7 +256,6 @@ solicitous: concerned
 soporific: causing sleep
 spartan: simple and severe
 sporadic: irregular
-spurious: false
 stagnant: not moving
 staunch: loyal
 steadfast: firm
@@ -360,7 +359,6 @@ anathema: something vehemently disliked
 apocryphal: of doubtful authenticity
 appease: to pacify
 apprise: to inform
-appropriate: to take for one's own use
 artless: without guile
 ascetic: severe self-discipline
 assiduous: showing great care
@@ -432,7 +430,6 @@ dispassionate: rational and impartial
 dissolution: closing down
 dissonance: lack of harmony
 distend: to swell
-distill: to extract essential meaning
 dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
