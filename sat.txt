@@ -132,7 +132,6 @@ nuance: a subtle difference
 obdurate: stubborn
 obfuscate: to make unclear
 oblivious: unaware
-obsequious: overly submissive
 obsolete: no longer in use
 obstinate: stubborn
 obtrusive: pushing oneself forward
@@ -212,7 +211,6 @@ recalcitrant: stubborn
 recluse: one who lives alone
 reconcile: to make peace
 rectify: to correct
-redoubtable: inspiring fear
 redundant: repetitive
 refute: to prove wrong
 relegate: to assign to a lower position
@@ -249,7 +247,6 @@ scrutinize: to examine closely
 seclude: to isolate
 sedentary: sitting a lot
 sedition: rebellion
-sedulous: hard-working
 serendipity: luck
 serene: calm
 servile: overly submissive
