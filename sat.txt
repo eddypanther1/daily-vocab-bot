@@ -74,7 +74,6 @@ fortuitous: lucky
 frivolous: unimportant
 frugal: thrifty
 galvanize: to inspire
-garrulous: talkative
 gregarious: sociable
 guile: deceit
 hackneyed: overused
@@ -486,7 +485,6 @@ implicit: implied
 impunity: exemption from punishment
 inadvertently: accidentally
 inconsequential: not important
-incontrovertible: undeniable
 incorporate: to include
 indefatigable: persisting tirelessly
 indeterminate: not exactly known
@@ -584,7 +582,6 @@ volubility: talking fluently
 waft: to pass gently
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
-xenophobe: one who dislikes foreigners
 zealous: showing great energy
 anarchy: absence of governing body
 anomalous: abnormal or irregular
