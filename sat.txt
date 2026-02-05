@@ -211,7 +211,6 @@ rectify: to correct
 redundant: repetitive
 refute: to prove wrong
 relegate: to assign to a lower position
-relinquish: to give up
 remiss: careless
 remorse: regret
 renounce: to give up
@@ -235,7 +234,6 @@ sagacious: wise
 salient: significant
 salutary: healthful
 sanction: to approve
-sanguine: optimistic
 satiate: to satisfy fully
 satire: making fun of something
 scanty: insufficient
@@ -592,7 +590,6 @@ fervor: glowing ardor
 futile: useless; hopeless
 homogenous: of the same kind
 intransigence: refusal of any compromise
-itinerary: plan of a trip
 log: record of a voyage
 magnanimity: generosity
 malingerer: one who feigns illness
