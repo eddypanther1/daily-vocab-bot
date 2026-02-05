@@ -66,7 +66,6 @@ exacerbate: worsen
 exemplary: outstanding
 extol: to praise
 fallacy: a mistaken belief
-fastidious: very careful
 flagrant: blatant
 fluctuate: to vary
 formidable: intimidating
@@ -410,7 +409,6 @@ denigrate: to criticize unfairly
 desiccate: to remove moisture
 diatribe: bitter verbal attack
 dichotomy: contrast between two things
-diffident: modest or shy
 diffuse: to spread over wide area
 digression: temporary departure from subject
 dilettante: amateur
@@ -487,7 +485,6 @@ indefatigable: persisting tirelessly
 indeterminate: not exactly known
 indigence: extreme poverty
 indolent: lazy
-inert: lacking ability to move
 ineffable: too great for words
 ingenious: clever
 ingenuous: innocent
