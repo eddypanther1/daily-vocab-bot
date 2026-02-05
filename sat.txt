@@ -68,7 +68,6 @@ extol: to praise
 fallacy: a mistaken belief
 flagrant: blatant
 fluctuate: to vary
-formidable: intimidating
 fortuitous: lucky
 frivolous: unimportant
 frugal: thrifty
@@ -573,7 +572,6 @@ verbosity: wordiness
 veritable: used as intensifier
 viscid: sticky
 volubility: talking fluently
-waft: to pass gently
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 zealous: showing great energy
@@ -583,7 +581,6 @@ cacophonous: discordant
 castigation: punishment; severe criticism
 compliant: yielding
 converge: to approach; come together
-daunt: to intimidate
 decorum: propriety; good taste
 deterrent: something that discourages
 diffidence: shyness
