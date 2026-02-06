@@ -31,7 +31,6 @@ chicanery: trickery
 coerce: to force
 cogent: convincing
 collaborate: to work together
-concise: brief and to the point
 condone: to overlook or forgive
 copious: abundant
 cursory: hasty
@@ -331,7 +330,6 @@ aberrant: deviating from what is normal
 abeyance: temporary suppression or suspension
 abjure: to renounce formally
 abnegation: self-denial
-abrogate: to abolish or revoke formally
 abscond: to leave secretly
 abstemious: moderate in appetite
 accretion: growth or increase by accumulation
@@ -367,7 +365,6 @@ beneficent: generous
 berate: to scold angrily
 blight: a thing that damages
 blithe: casual and cheerful indifference
-boorish: rough and bad-mannered
 burgeon: to grow rapidly
 burnish: to polish
 buttress: a support
