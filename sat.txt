@@ -150,7 +150,6 @@ patronize: to talk down to
 paucity: scarcity
 pedantic: showing off learning
 pedestrian: ordinary
-penchant: a strong liking
 pensive: thoughtful
 perfidious: disloyal
 permeate: to spread throughout
@@ -414,7 +413,6 @@ discredit: to harm reputation
 discrepancy: lack of compatibility
 discrete: individually separate
 disingenuous: not candid
-disinterested: impartial
 disjointed: lacking connection
 dismiss: to treat as unworthy
 disparate: essentially different
@@ -480,7 +478,6 @@ indeterminate: not exactly known
 indigence: extreme poverty
 indolent: lazy
 ineffable: too great for words
-ingenious: clever
 ingenuous: innocent
 inherent: existing as permanent attribute
 insensible: unconscious
