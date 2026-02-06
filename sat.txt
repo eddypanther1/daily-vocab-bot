@@ -130,7 +130,6 @@ obdurate: stubborn
 obfuscate: to make unclear
 oblivious: unaware
 obsolete: no longer in use
-obstinate: stubborn
 obtrusive: pushing oneself forward
 obtuse: not sharp-witted
 ominous: threatening
@@ -239,7 +238,6 @@ satire: making fun of something
 scanty: insufficient
 scrupulous: careful
 scrutinize: to examine closely
-seclude: to isolate
 sedentary: sitting a lot
 sedition: rebellion
 serendipity: luck
@@ -282,7 +280,6 @@ tentative: uncertain
 tenuous: weak
 timorous: fearful
 torrid: very hot
-tractable: easily managed
 transient: short-lived
 trepidation: fear
 trite: overused
