@@ -76,7 +76,6 @@ guile: deceit
 hackneyed: overused
 hedonist: pleasure-seeker
 heresy: against orthodox opinion
-hinder: to obstruct
 hypothetical: assumed
 iconoclast: one who attacks traditions
 idiosyncrasy: personal peculiarity
@@ -208,7 +207,6 @@ rectify: to correct
 redundant: repetitive
 refute: to prove wrong
 relegate: to assign to a lower position
-remiss: careless
 remorse: regret
 renounce: to give up
 reprehensible: deserving blame
@@ -453,7 +451,6 @@ goad: to provoke
 gouge: to cut or force out
 grandiloquent: pompous language
 guileless: innocent
-gullible: easily persuaded
 hapless: unfortunate
 hegemony: leadership or dominance
 homogeneous: of the same kind
