@@ -113,7 +113,6 @@ meticulous: very careful
 mitigate: to make less severe
 modicum: a small amount
 mollify: to soothe
-monotony: lack of variation
 mundane: ordinary
 myriad: a great number
 negligent: careless
@@ -208,7 +207,6 @@ redundant: repetitive
 relegate: to assign to a lower position
 remorse: regret
 renounce: to give up
-reprehensible: deserving blame
 repudiate: to reject
 resilient: able to recover
 resolute: determined
@@ -492,7 +490,6 @@ levee: embankment
 levity: humor in serious matter
 malinger: to feign illness
 mendacious: lying
-metamorphosis: transformation
 misanthrope: hater of humankind
 morose: sullen
 negate: to nullify
