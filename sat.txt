@@ -205,7 +205,6 @@ recluse: one who lives alone
 reconcile: to make peace
 rectify: to correct
 redundant: repetitive
-refute: to prove wrong
 relegate: to assign to a lower position
 remorse: regret
 renounce: to give up
@@ -236,7 +235,6 @@ scrupulous: careful
 scrutinize: to examine closely
 sedentary: sitting a lot
 sedition: rebellion
-serendipity: luck
 serene: calm
 servile: overly submissive
 shrewd: clever
@@ -506,7 +504,6 @@ oscillate: to swing back and forth
 paragon: perfect example
 pathological: caused by disease
 penury: extreme poverty
-perennial: lasting long time
 permeable: allowing liquids through
 plasticity: easily shaped
 plummet: to fall straight down
