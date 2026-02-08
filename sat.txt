@@ -122,7 +122,6 @@ nonchalant: unconcerned
 novice: a beginner
 noxious: harmful
 obdurate: stubborn
-obfuscate: to make unclear
 oblivious: unaware
 obsolete: no longer in use
 obtrusive: pushing oneself forward
@@ -322,7 +321,6 @@ abeyance: temporary suppression or suspension
 abjure: to renounce formally
 abnegation: self-denial
 abscond: to leave secretly
-abstemious: moderate in appetite
 accretion: growth or increase by accumulation
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
@@ -403,7 +401,6 @@ disjointed: lacking connection
 dismiss: to treat as unworthy
 disparate: essentially different
 dispassionate: rational and impartial
-dissolution: closing down
 dissonance: lack of harmony
 distend: to swell
 dupe: to deceive
