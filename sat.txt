@@ -60,7 +60,6 @@ enigma: mystery
 ephemeral: short-lived
 equanimity: calmness
 esoteric: understood by few
-eulogy: speech of praise
 exacerbate: worsen
 exemplary: outstanding
 extol: to praise
@@ -178,7 +177,6 @@ proclivity: a tendency
 prodigal: wasteful
 prodigious: enormous
 profane: disrespectful
-profound: deep
 prolific: productive
 propensity: a tendency
 propitious: favorable
@@ -351,7 +349,6 @@ asylum: protection granted by a state
 attenuate: to reduce force or value
 audacious: bold risks
 austere: severe or strict
-autonomous: self-governing
 aver: to state to be the case
 belie: to contradict
 belligerent: hostile and aggressive
