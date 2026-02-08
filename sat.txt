@@ -121,7 +121,6 @@ noisome: offensive
 nonchalant: unconcerned
 novice: a beginner
 noxious: harmful
-nuance: a subtle difference
 obdurate: stubborn
 obfuscate: to make unclear
 oblivious: unaware
@@ -383,7 +382,6 @@ credulous: gullible
 debilitate: to make weak
 decorous: in keeping with good taste
 deference: humble submission
-defunct: no longer existing
 delineate: to describe precisely
 demur: to raise doubts
 denigrate: to criticize unfairly
@@ -467,7 +465,6 @@ indolent: lazy
 ineffable: too great for words
 ingenuous: innocent
 inherent: existing as permanent attribute
-insensible: unconscious
 insinuate: to suggest indirectly
 insipid: lacking flavor
 insularity: ignorance of other cultures
