@@ -69,7 +69,6 @@ fluctuate: to vary
 fortuitous: lucky
 frivolous: unimportant
 frugal: thrifty
-galvanize: to inspire
 gregarious: sociable
 guile: deceit
 hackneyed: overused
@@ -381,7 +380,6 @@ debilitate: to make weak
 decorous: in keeping with good taste
 deference: humble submission
 delineate: to describe precisely
-demur: to raise doubts
 denigrate: to criticize unfairly
 desiccate: to remove moisture
 diatribe: bitter verbal attack
@@ -555,7 +553,6 @@ converge: to approach; come together
 decorum: propriety; good taste
 deterrent: something that discourages
 diffidence: shyness
-divest: to strip; deprive
 dormant: sleeping; lethargic
 enhance: to increase; improve
 extrapolation: projection; conjecture
