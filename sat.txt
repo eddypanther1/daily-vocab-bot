@@ -1,5 +1,4 @@
 abate: to lessen
-aberration: a deviation from the norm
 abhor: to hate
 accolade: praise or distinction
 acrimony: bitterness or hostility
@@ -253,7 +252,6 @@ supplant: to replace
 surfeit: an excess
 surreptitious: secret
 sycophant: a flatterer
-tacit: understood without being said
 taciturn: silent
 tangible: touchable
 tantamount: equivalent
@@ -410,7 +408,6 @@ engender: to cause or give rise to
 ennui: boredom
 euphemism: mild word for harsh one
 exculpate: to clear from blame
-exigency: urgent need
 extraneous: irrelevant
 facetious: flippant humor
 facilitate: to make easier
