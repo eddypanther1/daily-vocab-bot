@@ -69,7 +69,6 @@ fluctuate: to vary
 fortuitous: lucky
 frivolous: unimportant
 frugal: thrifty
-gregarious: sociable
 guile: deceit
 hackneyed: overused
 hedonist: pleasure-seeker
@@ -81,7 +80,6 @@ imminent: about to happen
 impetuous: impulsive
 impugn: to call into question
 inane: silly
-indigent: poor
 inevitable: unavoidable
 infer: to deduce
 innate: inborn
@@ -263,7 +261,6 @@ tedious: boring
 temerity: boldness
 temperance: moderation
 tenacious: persistent
-tentative: uncertain
 tenuous: weak
 timorous: fearful
 torrid: very hot
