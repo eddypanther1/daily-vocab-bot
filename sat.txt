@@ -86,7 +86,6 @@ innocuous: harmless
 insatiable: cannot be satisfied
 insular: narrow-minded
 intrepid: fearless
-inundate: to flood
 irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
@@ -185,7 +184,6 @@ querulous: complaining
 quiescent: inactive
 quintessential: the most perfect example
 quixotic: overly idealistic
-rapport: a close relationship
 rash: impulsive
 ratify: to approve
 raucous: harsh and loud
@@ -358,7 +356,6 @@ catalyst: something causing change
 causality: relationship between cause and effect
 coagulate: change to solid
 coda: concluding passage
-commensurate: corresponding in size
 compendium: collection of detailed information
 complaisant: willing to please
 conciliatory: intended to pacify
