@@ -297,7 +297,6 @@ wane: to decrease
 wary: cautious
 wax: to increase
 whimsical: playful
-wily: clever
 withdraw: to pull back
 wither: to dry up
 withhold: to hold back
@@ -350,7 +349,6 @@ buttress: a support
 cajole: to persuade by coaxing
 calumny: slander
 capricious: impulsive and unpredictable
-castigate: to reprimand severely
 catalyst: something causing change
 causality: relationship between cause and effect
 coagulate: change to solid
@@ -409,7 +407,6 @@ facilitate: to make easier
 fallacious: based on mistaken belief
 fatuous: silly and pointless
 felicitous: well chosen
-fervent: passionate intensity
 fervid: intensely enthusiastic
 flag: to become tired
 florid: red complexion or intricate
