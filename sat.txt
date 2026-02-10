@@ -242,7 +242,6 @@ sublime: noble
 submissive: yielding
 substantiate: to prove
 subtle: not obvious
-subvert: to undermine
 succulent: juicy
 supercilious: arrogant
 superfluous: unnecessary
@@ -383,7 +382,6 @@ dirge: lament for the dead
 disabuse: to persuade someone belief is mistaken
 discerning: having good judgment
 discordant: disagreeing
-discredit: to harm reputation
 discrepancy: lack of compatibility
 discrete: individually separate
 disingenuous: not candid
@@ -561,7 +559,6 @@ recant: to disclaim; retract
 reproach: to express disapproval
 reprobate: person hardened in sin
 resolution: determination
-resolve: determination
 reverent: respectful
 sage: person celebrated for wisdom
 skeptic: doubter
