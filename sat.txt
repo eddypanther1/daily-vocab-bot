@@ -1,7 +1,6 @@
 abate: to lessen
 abhor: to hate
 accolade: praise or distinction
-acrimony: bitterness or hostility
 acumen: keen insight
 adroit: skillful
 alacrity: eagerness
@@ -103,7 +102,6 @@ malevolent: having evil intent
 malleable: capable of being shaped
 maverick: an independent-minded person
 meager: small in quantity
-meticulous: very careful
 mitigate: to make less severe
 modicum: a small amount
 mollify: to soothe
@@ -542,7 +540,6 @@ extrapolation: projection; conjecture
 fervor: glowing ardor
 futile: useless; hopeless
 homogenous: of the same kind
-intransigence: refusal of any compromise
 log: record of a voyage
 magnanimity: generosity
 malingerer: one who feigns illness
