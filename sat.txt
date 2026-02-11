@@ -149,7 +149,6 @@ phlegmatic: calm, sluggish
 piety: religious devotion
 placate: to soothe
 placid: calm
-platitude: a dull remark
 plausible: believable
 plethora: an excess
 poignant: emotionally moving
@@ -182,7 +181,6 @@ quandary: a state of doubt
 quell: to suppress
 querulous: complaining
 quiescent: inactive
-quintessential: the most perfect example
 quixotic: overly idealistic
 rash: impulsive
 ratify: to approve
@@ -474,7 +472,6 @@ officious: domineering
 opprobrium: harsh criticism
 oscillate: to swing back and forth
 paragon: perfect example
-pathological: caused by disease
 penury: extreme poverty
 permeable: allowing liquids through
 plasticity: easily shaped
