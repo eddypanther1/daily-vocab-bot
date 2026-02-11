@@ -16,7 +16,6 @@ arduous: difficult
 articulate: able to speak clearly
 astute: clever, intelligent
 avarice: greed
-banal: boring, unoriginal
 bellicose: warlike
 benign: harmless
 bombastic: pompous in speech
@@ -190,7 +189,6 @@ recluse: one who lives alone
 reconcile: to make peace
 rectify: to correct
 redundant: repetitive
-relegate: to assign to a lower position
 remorse: regret
 renounce: to give up
 repudiate: to reject
@@ -344,7 +342,6 @@ burnish: to polish
 buttress: a support
 cajole: to persuade by coaxing
 calumny: slander
-capricious: impulsive and unpredictable
 catalyst: something causing change
 causality: relationship between cause and effect
 coagulate: change to solid
