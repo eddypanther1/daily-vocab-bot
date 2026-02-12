@@ -180,7 +180,6 @@ quiescent: inactive
 quixotic: overly idealistic
 rash: impulsive
 ratify: to approve
-raucous: harsh and loud
 ravenous: very hungry
 rebuke: to criticize
 recalcitrant: stubborn
@@ -192,7 +191,6 @@ remorse: regret
 renounce: to give up
 repudiate: to reject
 resilient: able to recover
-resolute: determined
 respite: a break
 resplendent: shining
 restorative: having the power to restore
@@ -507,7 +505,6 @@ truculence: aggressiveness
 truism: obvious statement
 tyro: beginner
 underling: subordinate
-unfeigned: genuine
 unequivocal: unambiguous
 unwitting: not aware
 usury: illegal lending
