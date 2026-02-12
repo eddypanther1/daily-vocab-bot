@@ -7,7 +7,6 @@ alacrity: eagerness
 ambivalent: having mixed feelings
 amiable: friendly
 anachronistic: out of chronological order
-anomaly: irregularity
 antithesis: the direct opposite
 apathy: lack of interest
 apex: highest point
@@ -96,7 +95,6 @@ loquacious: talkative
 lucid: clear
 luminous: bright
 magnanimous: generous
-malevolent: having evil intent
 malleable: capable of being shaped
 maverick: an independent-minded person
 meager: small in quantity
@@ -539,7 +537,6 @@ preamble: introductory statement
 prohibitive: tending to prevent
 recant: to disclaim; retract
 reproach: to express disapproval
-reprobate: person hardened in sin
 resolution: determination
 reverent: respectful
 sage: person celebrated for wisdom
