@@ -18,7 +18,6 @@ astute: clever, intelligent
 avarice: greed
 bellicose: warlike
 benign: harmless
-bombastic: pompous in speech
 cacophony: harsh noise
 candid: honest
 capitulate: surrender
@@ -433,7 +432,6 @@ inadvertently: accidentally
 inconsequential: not important
 incorporate: to include
 indefatigable: persisting tirelessly
-indeterminate: not exactly known
 indigence: extreme poverty
 indolent: lazy
 ineffable: too great for words
@@ -527,7 +525,6 @@ anomalous: abnormal or irregular
 cacophonous: discordant
 castigation: punishment; severe criticism
 compliant: yielding
-converge: to approach; come together
 decorum: propriety; good taste
 deterrent: something that discourages
 diffidence: shyness
