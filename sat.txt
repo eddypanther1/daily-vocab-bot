@@ -223,7 +223,6 @@ spartan: simple and severe
 sporadic: irregular
 stagnant: not moving
 staunch: loyal
-steadfast: firm
 stigma: a mark of shame
 stolid: showing no emotion
 strident: loud and harsh
@@ -251,7 +250,6 @@ torrid: very hot
 transient: short-lived
 trepidation: fear
 trite: overused
-truculent: eager to fight
 truncate: to shorten
 ubiquitous: found everywhere
 unprecedented: never having happened before
@@ -265,7 +263,6 @@ validate: to prove true
 vapid: dull
 variegated: varied
 venerate: to respect
-veracity: truthfulness
 verbose: wordy
 verdant: green
 vestige: a trace
