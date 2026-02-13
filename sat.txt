@@ -171,7 +171,6 @@ provincial: narrow-minded
 prudent: careful
 pugnacious: eager to fight
 quaint: charmingly old-fashioned
-quandary: a state of doubt
 quell: to suppress
 querulous: complaining
 quiescent: inactive
@@ -307,7 +306,6 @@ aesthetic: concerned with beauty
 alleviate: to make suffering less severe
 amalgamate: to combine or unite
 ambiguous: open to more than one interpretation
-ameliorate: to make something better
 anachronism: something out of place in time
 analogous: comparable
 anathema: something vehemently disliked
@@ -499,7 +497,6 @@ trenchant: vigorous expression
 truculence: aggressiveness
 truism: obvious statement
 tyro: beginner
-underling: subordinate
 unequivocal: unambiguous
 unwitting: not aware
 usury: illegal lending
