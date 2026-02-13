@@ -32,7 +32,6 @@ cursory: hasty
 dauntless: fearless
 debacle: a disaster
 debunk: to expose as false
-deleterious: harmful
 demure: shy
 deride: to mock
 despot: a dictator
@@ -283,7 +282,6 @@ wary: cautious
 wax: to increase
 whimsical: playful
 withdraw: to pull back
-wither: to dry up
 withhold: to hold back
 witty: clever and funny
 woe: sorrow
@@ -483,7 +481,6 @@ shard: piece of broken material
 specious: superficially plausible
 stint: allotted period of work
 stipulate: to demand
-striated: marked with ridges
 subpoena: writ to attend court
 subside: to become less intense
 supersede: to take place of
