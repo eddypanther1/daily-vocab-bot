@@ -255,7 +255,6 @@ utilitarian: useful
 utopian: idealistic
 vacillate: to waver
 vacuous: empty
-validate: to prove true
 vapid: dull
 variegated: varied
 venerate: to respect
@@ -468,7 +467,6 @@ recondite: little known
 refractory: stubborn
 replete: filled
 rubric: set of instructions
-salubrious: healthy
 saturate: to soak thoroughly
 savor: to enjoy
 secrete: to produce and discharge
@@ -493,7 +491,6 @@ unequivocal: unambiguous
 unwitting: not aware
 usury: illegal lending
 vacillation: wavering
-veneration: deep respect
 verbosity: wordiness
 veritable: used as intensifier
 viscid: sticky
