@@ -104,7 +104,6 @@ mundane: ordinary
 myriad: a great number
 negligent: careless
 neophyte: a beginner
-nocturnal: active at night
 noisome: offensive
 nonchalant: unconcerned
 novice: a beginner
@@ -393,7 +392,6 @@ flag: to become tired
 florid: red complexion or intricate
 flout: to openly disregard
 foment: to instigate
-forbear: to refrain
 forestall: to prevent by advance action
 fractious: irritable
 frugality: thriftiness
@@ -436,7 +434,6 @@ invective: abusive language
 irresolute: uncertain
 jocular: humorous
 juxtapose: to place close together
-keen: eager or sharp
 knavery: dishonest dealings
 largess: generosity
 lassitude: lack of energy
