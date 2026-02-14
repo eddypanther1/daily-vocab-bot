@@ -137,7 +137,6 @@ permeate: to spread throughout
 perseverance: persistence
 peruse: to read carefully
 pervasive: spreading everywhere
-phlegmatic: calm, sluggish
 piety: religious devotion
 placate: to soothe
 placid: calm
@@ -403,7 +402,6 @@ gouge: to cut or force out
 grandiloquent: pompous language
 guileless: innocent
 hapless: unfortunate
-hegemony: leadership or dominance
 homogeneous: of the same kind
 hubris: excessive pride
 hyperbole: exaggerated statements
@@ -531,4 +529,3 @@ sage: person celebrated for wisdom
 skeptic: doubter
 spectrum: colored band
 viable: practical
-warranted: justified
