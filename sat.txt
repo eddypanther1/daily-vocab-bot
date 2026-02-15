@@ -231,7 +231,6 @@ supercilious: arrogant
 superfluous: unnecessary
 supplant: to replace
 surfeit: an excess
-surreptitious: secret
 sycophant: a flatterer
 taciturn: silent
 tangible: touchable
@@ -289,7 +288,6 @@ zenith: the highest point
 aberrant: deviating from what is normal
 abeyance: temporary suppression or suspension
 abjure: to renounce formally
-abnegation: self-denial
 abscond: to leave secretly
 accretion: growth or increase by accumulation
 acerbic: sharp and forthright
@@ -506,7 +504,6 @@ compliant: yielding
 decorum: propriety; good taste
 deterrent: something that discourages
 diffidence: shyness
-dormant: sleeping; lethargic
 enhance: to increase; improve
 extrapolation: projection; conjecture
 fervor: glowing ardor
