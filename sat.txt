@@ -40,7 +40,6 @@ didactic: instructive
 diligent: hard-working
 disdain: lack of respect
 disparage: to belittle
-disseminate: to spread
 diverge: to separate
 dogmatic: strongly opinionated
 dubious: doubtful
@@ -52,7 +51,6 @@ elucidate: to explain clearly
 emulate: to imitate
 enigma: mystery
 ephemeral: short-lived
-equanimity: calmness
 esoteric: understood by few
 exacerbate: worsen
 exemplary: outstanding
@@ -143,7 +141,6 @@ placid: calm
 plausible: believable
 plethora: an excess
 poignant: emotionally moving
-polemic: a strong verbal attack
 ponderous: heavy, clumsy
 pragmatic: practical
 precarious: dangerous
