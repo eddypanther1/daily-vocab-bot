@@ -234,7 +234,6 @@ surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
 tangible: touchable
-tantamount: equivalent
 tedious: boring
 temerity: boldness
 temperance: moderation
@@ -252,7 +251,6 @@ upbraid: to scold
 usurp: to seize power
 utilitarian: useful
 utopian: idealistic
-vacillate: to waver
 vacuous: empty
 vapid: dull
 variegated: varied
@@ -301,7 +299,6 @@ amalgamate: to combine or unite
 ambiguous: open to more than one interpretation
 anachronism: something out of place in time
 analogous: comparable
-anathema: something vehemently disliked
 apocryphal: of doubtful authenticity
 appease: to pacify
 apprise: to inform
