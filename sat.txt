@@ -278,7 +278,6 @@ woe: sorrow
 wrath: anger
 zeal: enthusiasm
 zealot: a fanatic
-zenith: the highest point
 aberrant: deviating from what is normal
 abeyance: temporary suppression or suspension
 abjure: to renounce formally
@@ -339,7 +338,6 @@ decorous: in keeping with good taste
 deference: humble submission
 delineate: to describe precisely
 denigrate: to criticize unfairly
-desiccate: to remove moisture
 diatribe: bitter verbal attack
 dichotomy: contrast between two things
 diffuse: to spread over wide area
@@ -462,7 +460,6 @@ secrete: to produce and discharge
 shard: piece of broken material
 specious: superficially plausible
 stint: allotted period of work
-stipulate: to demand
 subpoena: writ to attend court
 subside: to become less intense
 supersede: to take place of
