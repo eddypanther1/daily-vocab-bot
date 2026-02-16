@@ -230,7 +230,6 @@ supplant: to replace
 surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
-tangible: touchable
 tedious: boring
 temerity: boldness
 temperance: moderation
@@ -406,7 +405,6 @@ implicit: implied
 impunity: exemption from punishment
 inadvertently: accidentally
 inconsequential: not important
-incorporate: to include
 indefatigable: persisting tirelessly
 indigence: extreme poverty
 indolent: lazy
@@ -421,7 +419,6 @@ intransigent: unwilling to change views
 inured: accustomed to unpleasantness
 invective: abusive language
 irresolute: uncertain
-jocular: humorous
 juxtapose: to place close together
 knavery: dishonest dealings
 largess: generosity
