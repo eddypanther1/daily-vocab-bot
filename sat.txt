@@ -210,7 +210,6 @@ servile: overly submissive
 shrewd: clever
 shroud: to cover
 sloth: laziness
-solicitous: concerned
 soporific: causing sleep
 spartan: simple and severe
 sporadic: irregular
@@ -226,7 +225,6 @@ subtle: not obvious
 succulent: juicy
 supercilious: arrogant
 superfluous: unnecessary
-supplant: to replace
 surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
@@ -278,7 +276,6 @@ woe: sorrow
 wrath: anger
 zeal: enthusiasm
 zealot: a fanatic
-aberrant: deviating from what is normal
 abeyance: temporary suppression or suspension
 abjure: to renounce formally
 abscond: to leave secretly
