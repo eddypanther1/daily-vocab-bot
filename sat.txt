@@ -25,7 +25,6 @@ censure: to criticize harshly
 chicanery: trickery
 coerce: to force
 cogent: convincing
-collaborate: to work together
 condone: to overlook or forgive
 copious: abundant
 cursory: hasty
@@ -285,7 +284,6 @@ aesthetic: concerned with beauty
 alleviate: to make suffering less severe
 amalgamate: to combine or unite
 ambiguous: open to more than one interpretation
-anachronism: something out of place in time
 analogous: comparable
 apocryphal: of doubtful authenticity
 appease: to pacify
@@ -386,7 +384,6 @@ homogeneous: of the same kind
 hubris: excessive pride
 hyperbole: exaggerated statements
 idolatry: worship of idols
-immutable: unchanging
 impassive: not showing emotion
 impermeable: not allowing fluid through
 imperturbable: calm
