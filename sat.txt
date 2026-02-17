@@ -160,8 +160,6 @@ profane: disrespectful
 prolific: productive
 propensity: a tendency
 propitious: favorable
-prosperous: wealthy
-provincial: narrow-minded
 prudent: careful
 pugnacious: eager to fight
 quaint: charmingly old-fashioned
@@ -467,7 +465,6 @@ tortuous: full of twists
 transgression: offense
 transparent: allowing light through
 trenchant: vigorous expression
-truculence: aggressiveness
 truism: obvious statement
 tyro: beginner
 unequivocal: unambiguous
