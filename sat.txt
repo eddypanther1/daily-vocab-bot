@@ -161,7 +161,6 @@ querulous: complaining
 quiescent: inactive
 quixotic: overly idealistic
 rash: impulsive
-ratify: to approve
 ravenous: very hungry
 rebuke: to criticize
 recalcitrant: stubborn
@@ -175,7 +174,6 @@ repudiate: to reject
 resilient: able to recover
 respite: a break
 resplendent: shining
-restorative: having the power to restore
 reticent: silent
 revere: to respect deeply
 reverence: deep respect
@@ -236,7 +234,6 @@ upbraid: to scold
 usurp: to seize power
 utilitarian: useful
 utopian: idealistic
-vacuous: empty
 vapid: dull
 variegated: varied
 venerate: to respect
