@@ -46,7 +46,6 @@ eclectic: from various sources
 egregious: outstandingly bad
 elucidate: to explain clearly
 emulate: to imitate
-enigma: mystery
 ephemeral: short-lived
 esoteric: understood by few
 exacerbate: worsen
@@ -143,7 +142,6 @@ precipitate: to cause to happen suddenly
 preclude: to prevent
 precocious: talented at a young age
 predecessor: one who came before
-predicament: a difficult situation
 premonition: a feeling of future event
 pretentious: showy
 prevalent: widespread
@@ -370,7 +368,6 @@ forestall: to prevent by advance action
 fractious: irritable
 frugality: thriftiness
 furtive: secretive
-gainsay: to deny
 germane: relevant
 goad: to provoke
 gouge: to cut or force out
