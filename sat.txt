@@ -44,7 +44,6 @@ dogmatic: strongly opinionated
 ebullient: enthusiastic
 eclectic: from various sources
 egregious: outstandingly bad
-elated: joyful
 elucidate: to explain clearly
 emulate: to imitate
 enigma: mystery
@@ -62,7 +61,6 @@ frugal: thrifty
 guile: deceit
 hackneyed: overused
 hedonist: pleasure-seeker
-heresy: against orthodox opinion
 hypothetical: assumed
 iconoclast: one who attacks traditions
 idiosyncrasy: personal peculiarity
@@ -316,7 +314,6 @@ compendium: collection of detailed information
 complaisant: willing to please
 conciliatory: intended to pacify
 confound: to cause surprise or confusion
-connoisseur: expert judge
 contention: heated disagreement
 contentious: causing argument
 conventional: based on what is generally done
