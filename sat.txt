@@ -158,7 +158,6 @@ pugnacious: eager to fight
 quaint: charmingly old-fashioned
 quell: to suppress
 querulous: complaining
-quiescent: inactive
 quixotic: overly idealistic
 rash: impulsive
 ravenous: very hungry
@@ -360,7 +359,6 @@ fervid: intensely enthusiastic
 flag: to become tired
 florid: red complexion or intricate
 flout: to openly disregard
-foment: to instigate
 forestall: to prevent by advance action
 fractious: irritable
 frugality: thriftiness
@@ -395,7 +393,6 @@ insularity: ignorance of other cultures
 intractable: hard to control
 intransigent: unwilling to change views
 inured: accustomed to unpleasantness
-invective: abusive language
 irresolute: uncertain
 juxtapose: to place close together
 knavery: dishonest dealings
