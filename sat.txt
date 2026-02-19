@@ -34,7 +34,6 @@ debunk: to expose as false
 demure: shy
 deride: to mock
 despot: a dictator
-detrimental: damaging
 didactic: instructive
 diligent: hard-working
 disdain: lack of respect
@@ -454,7 +453,6 @@ unwitting: not aware
 usury: illegal lending
 vacillation: wavering
 verbosity: wordiness
-veritable: used as intensifier
 viscid: sticky
 volubility: talking fluently
 wheedle: to persuade by flattery
@@ -483,7 +481,6 @@ recant: to disclaim; retract
 reproach: to express disapproval
 resolution: determination
 reverent: respectful
-sage: person celebrated for wisdom
 skeptic: doubter
 spectrum: colored band
 viable: practical
