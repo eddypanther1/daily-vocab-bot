@@ -80,7 +80,6 @@ laconic: using few words
 lament: to express sorrow
 languid: slow and sluggish
 laud: to praise
-lavish: extravagant
 lethargic: tired, lazy
 loquacious: talkative
 lucid: clear
@@ -173,7 +172,6 @@ resilient: able to recover
 respite: a break
 resplendent: shining
 reticent: silent
-revere: to respect deeply
 reverence: deep respect
 robust: strong
 rouse: to wake up
@@ -344,7 +342,6 @@ elicit: to evoke
 empirical: based on observation
 endemic: regularly found in area
 enervate: to drain of energy
-engender: to cause or give rise to
 ennui: boredom
 euphemism: mild word for harsh one
 exculpate: to clear from blame
