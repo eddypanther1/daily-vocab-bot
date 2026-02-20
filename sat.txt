@@ -107,7 +107,6 @@ obtuse: not sharp-witted
 ominous: threatening
 omnipotent: all-powerful
 onerous: burdensome
-opaque: not letting light through
 opulent: wealthy
 ostentatious: showy
 ostracize: to exclude
@@ -175,7 +174,6 @@ reticent: silent
 reverence: deep respect
 robust: strong
 rouse: to wake up
-rudimentary: basic
 ruminate: to think deeply
 rustic: rural
 ruthless: showing no mercy
@@ -449,7 +447,6 @@ unequivocal: unambiguous
 unwitting: not aware
 usury: illegal lending
 vacillation: wavering
-verbosity: wordiness
 viscid: sticky
 volubility: talking fluently
 wheedle: to persuade by flattery
