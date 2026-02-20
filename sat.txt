@@ -58,7 +58,6 @@ frivolous: unimportant
 frugal: thrifty
 guile: deceit
 hackneyed: overused
-hedonist: pleasure-seeker
 hypothetical: assumed
 iconoclast: one who attacks traditions
 idiosyncrasy: personal peculiarity
@@ -239,7 +238,6 @@ vilify: to speak ill of
 vindicate: to clear from blame
 vindictive: seeking revenge
 virtuoso: a master
-viscous: thick and sticky
 vital: essential
 vituperate: to scold
 vivacious: lively
@@ -292,7 +290,6 @@ burgeon: to grow rapidly
 burnish: to polish
 buttress: a support
 cajole: to persuade by coaxing
-calumny: slander
 catalyst: something causing change
 causality: relationship between cause and effect
 coagulate: change to solid
