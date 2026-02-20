@@ -92,7 +92,6 @@ mitigate: to make less severe
 modicum: a small amount
 mollify: to soothe
 mundane: ordinary
-myriad: a great number
 negligent: careless
 neophyte: a beginner
 noisome: offensive
@@ -257,7 +256,6 @@ witty: clever and funny
 woe: sorrow
 wrath: anger
 zeal: enthusiasm
-zealot: a fanatic
 abeyance: temporary suppression or suspension
 abjure: to renounce formally
 abscond: to leave secretly
@@ -392,7 +390,6 @@ juxtapose: to place close together
 knavery: dishonest dealings
 largess: generosity
 lassitude: lack of energy
-laudable: deserving praise
 levee: embankment
 levity: humor in serious matter
 malinger: to feign illness
