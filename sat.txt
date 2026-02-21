@@ -81,7 +81,6 @@ languid: slow and sluggish
 laud: to praise
 lethargic: tired, lazy
 loquacious: talkative
-lucid: clear
 luminous: bright
 malleable: capable of being shaped
 maverick: an independent-minded person
@@ -144,7 +143,6 @@ proclivity: a tendency
 prodigal: wasteful
 prodigious: enormous
 profane: disrespectful
-prolific: productive
 propensity: a tendency
 propitious: favorable
 prudent: careful
@@ -317,7 +315,6 @@ discerning: having good judgment
 discordant: disagreeing
 discrepancy: lack of compatibility
 discrete: individually separate
-disingenuous: not candid
 disjointed: lacking connection
 dismiss: to treat as unworthy
 disparate: essentially different
