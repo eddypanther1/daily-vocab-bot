@@ -171,7 +171,6 @@ robust: strong
 rouse: to wake up
 ruminate: to think deeply
 rustic: rural
-ruthless: showing no mercy
 sagacious: wise
 salient: significant
 salutary: healthful
@@ -191,7 +190,6 @@ sloth: laziness
 soporific: causing sleep
 spartan: simple and severe
 sporadic: irregular
-stagnant: not moving
 staunch: loyal
 stigma: a mark of shame
 stolid: showing no emotion
@@ -229,7 +227,6 @@ verbose: wordy
 verdant: green
 vestige: a trace
 vex: to annoy
-vicarious: experienced through another
 vilify: to speak ill of
 vindicate: to clear from blame
 vindictive: seeking revenge
