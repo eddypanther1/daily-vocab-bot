@@ -83,7 +83,6 @@ lethargic: tired, lazy
 loquacious: talkative
 lucid: clear
 luminous: bright
-magnanimous: generous
 malleable: capable of being shaped
 maverick: an independent-minded person
 meager: small in quantity
@@ -216,7 +215,6 @@ tenacious: persistent
 tenuous: weak
 timorous: fearful
 torrid: very hot
-transient: short-lived
 trepidation: fear
 trite: overused
 truncate: to shorten
@@ -302,7 +300,6 @@ contention: heated disagreement
 contentious: causing argument
 conventional: based on what is generally done
 convoluted: extremely complex
-corroborate: to confirm
 craven: cowardly
 credulous: gullible
 debilitate: to make weak
