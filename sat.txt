@@ -187,7 +187,6 @@ shrewd: clever
 soporific: causing sleep
 spartan: simple and severe
 sporadic: irregular
-staunch: loyal
 stigma: a mark of shame
 stolid: showing no emotion
 strident: loud and harsh
@@ -246,7 +245,6 @@ wrath: anger
 zeal: enthusiasm
 abeyance: temporary suppression or suspension
 abjure: to renounce formally
-abscond: to leave secretly
 accretion: growth or increase by accumulation
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
@@ -281,7 +279,6 @@ burnish: to polish
 buttress: a support
 cajole: to persuade by coaxing
 catalyst: something causing change
-causality: relationship between cause and effect
 coagulate: change to solid
 coda: concluding passage
 compendium: collection of detailed information
