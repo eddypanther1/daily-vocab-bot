@@ -18,7 +18,6 @@ avarice: greed
 bellicose: warlike
 benign: harmless
 cacophony: harsh noise
-candid: honest
 capitulate: surrender
 caustic: sarcastically biting
 censure: to criticize harshly
@@ -59,7 +58,6 @@ frugal: thrifty
 guile: deceit
 hackneyed: overused
 hypothetical: assumed
-iconoclast: one who attacks traditions
 idiosyncrasy: personal peculiarity
 imminent: about to happen
 impetuous: impulsive
@@ -84,7 +82,6 @@ loquacious: talkative
 luminous: bright
 malleable: capable of being shaped
 maverick: an independent-minded person
-meager: small in quantity
 mitigate: to make less severe
 modicum: a small amount
 mollify: to soothe
