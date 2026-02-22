@@ -93,7 +93,6 @@ negligent: careless
 neophyte: a beginner
 noisome: offensive
 nonchalant: unconcerned
-novice: a beginner
 noxious: harmful
 obdurate: stubborn
 oblivious: unaware
@@ -185,8 +184,6 @@ sedition: rebellion
 serene: calm
 servile: overly submissive
 shrewd: clever
-shroud: to cover
-sloth: laziness
 soporific: causing sleep
 spartan: simple and severe
 sporadic: irregular
