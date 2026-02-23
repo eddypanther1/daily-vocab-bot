@@ -234,7 +234,6 @@ wane: to decrease
 wary: cautious
 wax: to increase
 whimsical: playful
-withdraw: to pull back
 withhold: to hold back
 witty: clever and funny
 woe: sorrow
@@ -326,7 +325,6 @@ facilitate: to make easier
 fallacious: based on mistaken belief
 fatuous: silly and pointless
 felicitous: well chosen
-fervid: intensely enthusiastic
 flag: to become tired
 florid: red complexion or intricate
 flout: to openly disregard
@@ -375,7 +373,6 @@ malinger: to feign illness
 mendacious: lying
 misanthrope: hater of humankind
 morose: sullen
-negate: to nullify
 obviate: to remove a need
 occlude: to obstruct
 officious: domineering
