@@ -95,10 +95,8 @@ obdurate: stubborn
 oblivious: unaware
 obsolete: no longer in use
 obtrusive: pushing oneself forward
-obtuse: not sharp-witted
 ominous: threatening
 omnipotent: all-powerful
-onerous: burdensome
 opulent: wealthy
 ostentatious: showy
 ostracize: to exclude
@@ -331,7 +329,6 @@ flout: to openly disregard
 forestall: to prevent by advance action
 fractious: irritable
 frugality: thriftiness
-furtive: secretive
 germane: relevant
 goad: to provoke
 gouge: to cut or force out
