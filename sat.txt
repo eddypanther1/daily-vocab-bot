@@ -66,7 +66,6 @@ inane: silly
 inevitable: unavoidable
 infer: to deduce
 innate: inborn
-innocuous: harmless
 insatiable: cannot be satisfied
 insular: narrow-minded
 intrepid: fearless
@@ -153,7 +152,6 @@ recluse: one who lives alone
 reconcile: to make peace
 rectify: to correct
 redundant: repetitive
-remorse: regret
 renounce: to give up
 repudiate: to reject
 resilient: able to recover
@@ -431,7 +429,6 @@ decorum: propriety; good taste
 deterrent: something that discourages
 diffidence: shyness
 enhance: to increase; improve
-extrapolation: projection; conjecture
 fervor: glowing ardor
 futile: useless; hopeless
 homogenous: of the same kind
