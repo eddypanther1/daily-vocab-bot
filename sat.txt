@@ -305,7 +305,6 @@ distend: to swell
 dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
-elegy: poem of reflection
 elicit: to evoke
 empirical: based on observation
 endemic: regularly found in area
@@ -417,7 +416,6 @@ volubility: talking fluently
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 zealous: showing great energy
-anarchy: absence of governing body
 anomalous: abnormal or irregular
 cacophonous: discordant
 castigation: punishment; severe criticism
@@ -426,7 +424,6 @@ decorum: propriety; good taste
 deterrent: something that discourages
 diffidence: shyness
 enhance: to increase; improve
-fervor: glowing ardor
 futile: useless; hopeless
 homogenous: of the same kind
 log: record of a voyage
