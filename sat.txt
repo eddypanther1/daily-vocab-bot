@@ -182,7 +182,6 @@ spartan: simple and severe
 sporadic: irregular
 stigma: a mark of shame
 stolid: showing no emotion
-strident: loud and harsh
 sublime: noble
 submissive: yielding
 substantiate: to prove
@@ -256,7 +255,6 @@ ascetic: severe self-discipline
 assiduous: showing great care
 assuage: to soothe
 asylum: protection granted by a state
-attenuate: to reduce force or value
 audacious: bold risks
 austere: severe or strict
 aver: to state to be the case
@@ -386,7 +384,6 @@ propitiate: to win favor
 propriety: conforming to standards
 proscribe: to forbid
 pungent: sharp taste or smell
-qualified: limited or trained
 quibble: slight objection
 rarefy: to make less dense
 recondite: little known
