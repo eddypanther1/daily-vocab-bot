@@ -33,7 +33,6 @@ debunk: to expose as false
 demure: shy
 deride: to mock
 despot: a dictator
-didactic: instructive
 diligent: hard-working
 disdain: lack of respect
 disparage: to belittle
@@ -287,7 +286,6 @@ deference: humble submission
 delineate: to describe precisely
 denigrate: to criticize unfairly
 dichotomy: contrast between two things
-diffuse: to spread over wide area
 digression: temporary departure from subject
 dilettante: amateur
 dirge: lament for the dead
@@ -331,7 +329,6 @@ grandiloquent: pompous language
 guileless: innocent
 hapless: unfortunate
 homogeneous: of the same kind
-hubris: excessive pride
 hyperbole: exaggerated statements
 idolatry: worship of idols
 impassive: not showing emotion
