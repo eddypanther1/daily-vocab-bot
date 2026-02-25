@@ -214,7 +214,6 @@ verbose: wordy
 verdant: green
 vestige: a trace
 vex: to annoy
-vilify: to speak ill of
 vindicate: to clear from blame
 vindictive: seeking revenge
 virtuoso: a master
@@ -397,7 +396,6 @@ subside: to become less intense
 supersede: to take place of
 supposition: uncertain belief
 tangential: diverging
-tirade: long angry speech
 tortuous: full of twists
 transgression: offense
 transparent: allowing light through
@@ -424,7 +422,6 @@ enhance: to increase; improve
 futile: useless; hopeless
 homogenous: of the same kind
 log: record of a voyage
-magnanimity: generosity
 malingerer: one who feigns illness
 porous: full of pores
 preamble: introductory statement
