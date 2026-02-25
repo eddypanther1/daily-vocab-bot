@@ -261,7 +261,6 @@ belligerent: hostile and aggressive
 beneficent: generous
 berate: to scold angrily
 blight: a thing that damages
-blithe: casual and cheerful indifference
 burgeon: to grow rapidly
 burnish: to polish
 buttress: a support
@@ -298,7 +297,6 @@ dismiss: to treat as unworthy
 disparate: essentially different
 dispassionate: rational and impartial
 dissonance: lack of harmony
-distend: to swell
 dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
@@ -390,7 +388,6 @@ savor: to enjoy
 secrete: to produce and discharge
 shard: piece of broken material
 specious: superficially plausible
-stint: allotted period of work
 subpoena: writ to attend court
 subside: to become less intense
 supersede: to take place of
