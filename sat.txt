@@ -228,7 +228,6 @@ wary: cautious
 wax: to increase
 whimsical: playful
 withhold: to hold back
-witty: clever and funny
 woe: sorrow
 wrath: anger
 zeal: enthusiasm
@@ -300,7 +299,6 @@ dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
 elicit: to evoke
-empirical: based on observation
 endemic: regularly found in area
 enervate: to drain of energy
 ennui: boredom
@@ -410,7 +408,6 @@ cacophonous: discordant
 castigation: punishment; severe criticism
 compliant: yielding
 decorum: propriety; good taste
-deterrent: something that discourages
 diffidence: shyness
 enhance: to increase; improve
 futile: useless; hopeless
