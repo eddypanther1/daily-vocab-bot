@@ -233,7 +233,6 @@ woe: sorrow
 wrath: anger
 zeal: enthusiasm
 abeyance: temporary suppression or suspension
-abjure: to renounce formally
 accretion: growth or increase by accumulation
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
@@ -321,7 +320,6 @@ fractious: irritable
 frugality: thriftiness
 germane: relevant
 goad: to provoke
-gouge: to cut or force out
 grandiloquent: pompous language
 guileless: innocent
 hapless: unfortunate
@@ -361,7 +359,6 @@ misanthrope: hater of humankind
 morose: sullen
 obviate: to remove a need
 occlude: to obstruct
-officious: domineering
 opprobrium: harsh criticism
 oscillate: to swing back and forth
 paragon: perfect example
