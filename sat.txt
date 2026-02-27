@@ -70,7 +70,6 @@ intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
-laconic: using few words
 lament: to express sorrow
 languid: slow and sluggish
 laud: to praise
@@ -111,7 +110,6 @@ pensive: thoughtful
 perfidious: disloyal
 permeate: to spread throughout
 peruse: to read carefully
-pervasive: spreading everywhere
 piety: religious devotion
 placate: to soothe
 placid: calm
@@ -340,7 +338,6 @@ intransigent: unwilling to change views
 inured: accustomed to unpleasantness
 irresolute: uncertain
 juxtapose: to place close together
-knavery: dishonest dealings
 largess: generosity
 lassitude: lack of energy
 levee: embankment
