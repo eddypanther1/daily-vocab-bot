@@ -84,7 +84,6 @@ mollify: to soothe
 mundane: ordinary
 negligent: careless
 neophyte: a beginner
-noisome: offensive
 nonchalant: unconcerned
 obdurate: stubborn
 oblivious: unaware
@@ -210,7 +209,6 @@ verdant: green
 vestige: a trace
 vex: to annoy
 vindicate: to clear from blame
-vindictive: seeking revenge
 vital: essential
 vituperate: to scold
 vivacious: lively
@@ -313,7 +311,6 @@ germane: relevant
 goad: to provoke
 grandiloquent: pompous language
 guileless: innocent
-hapless: unfortunate
 homogeneous: of the same kind
 idolatry: worship of idols
 impassive: not showing emotion
