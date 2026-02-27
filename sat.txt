@@ -87,7 +87,6 @@ negligent: careless
 neophyte: a beginner
 noisome: offensive
 nonchalant: unconcerned
-noxious: harmful
 obdurate: stubborn
 oblivious: unaware
 obsolete: no longer in use
@@ -161,7 +160,6 @@ robust: strong
 rouse: to wake up
 ruminate: to think deeply
 rustic: rural
-sagacious: wise
 salient: significant
 salutary: healthful
 sanction: to approve
@@ -215,7 +213,6 @@ vestige: a trace
 vex: to annoy
 vindicate: to clear from blame
 vindictive: seeking revenge
-virtuoso: a master
 vital: essential
 vituperate: to scold
 vivacious: lively
