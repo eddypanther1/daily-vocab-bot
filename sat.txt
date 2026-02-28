@@ -233,7 +233,6 @@ adulterate: to make something poorer in quality
 aesthetic: concerned with beauty
 alleviate: to make suffering less severe
 amalgamate: to combine or unite
-ambiguous: open to more than one interpretation
 analogous: comparable
 apocryphal: of doubtful authenticity
 appease: to pacify
@@ -275,7 +274,6 @@ denigrate: to criticize unfairly
 dichotomy: contrast between two things
 digression: temporary departure from subject
 dilettante: amateur
-dirge: lament for the dead
 disabuse: to persuade someone belief is mistaken
 discerning: having good judgment
 discordant: disagreeing
@@ -354,7 +352,6 @@ plasticity: easily shaped
 plummet: to fall straight down
 precursor: forerunner
 prevaricate: to speak evasively
-probity: honesty
 problematic: constituting a problem
 propitiate: to win favor
 propriety: conforming to standards
