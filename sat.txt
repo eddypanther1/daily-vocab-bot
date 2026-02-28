@@ -147,7 +147,6 @@ reconcile: to make peace
 rectify: to correct
 redundant: repetitive
 renounce: to give up
-repudiate: to reject
 resilient: able to recover
 respite: a break
 resplendent: shining
@@ -236,7 +235,6 @@ analogous: comparable
 apocryphal: of doubtful authenticity
 appease: to pacify
 apprise: to inform
-artless: without guile
 ascetic: severe self-discipline
 assiduous: showing great care
 asylum: protection granted by a state
@@ -396,7 +394,6 @@ futile: useless; hopeless
 homogenous: of the same kind
 log: record of a voyage
 malingerer: one who feigns illness
-porous: full of pores
 preamble: introductory statement
 prohibitive: tending to prevent
 recant: to disclaim; retract
