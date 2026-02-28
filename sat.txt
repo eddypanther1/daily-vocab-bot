@@ -152,7 +152,6 @@ resilient: able to recover
 respite: a break
 resplendent: shining
 reticent: silent
-reverence: deep respect
 robust: strong
 rouse: to wake up
 ruminate: to think deeply
@@ -307,7 +306,6 @@ fractious: irritable
 frugality: thriftiness
 germane: relevant
 goad: to provoke
-grandiloquent: pompous language
 guileless: innocent
 homogeneous: of the same kind
 idolatry: worship of idols
@@ -347,7 +345,6 @@ opprobrium: harsh criticism
 oscillate: to swing back and forth
 paragon: perfect example
 penury: extreme poverty
-permeable: allowing liquids through
 plasticity: easily shaped
 plummet: to fall straight down
 precursor: forerunner
