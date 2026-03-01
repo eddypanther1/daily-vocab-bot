@@ -173,7 +173,6 @@ spartan: simple and severe
 sporadic: irregular
 stigma: a mark of shame
 stolid: showing no emotion
-sublime: noble
 submissive: yielding
 substantiate: to prove
 subtle: not obvious
@@ -243,7 +242,6 @@ austere: severe or strict
 aver: to state to be the case
 belie: to contradict
 belligerent: hostile and aggressive
-beneficent: generous
 berate: to scold angrily
 blight: a thing that damages
 burgeon: to grow rapidly
@@ -376,7 +374,6 @@ truism: obvious statement
 tyro: beginner
 unequivocal: unambiguous
 unwitting: not aware
-usury: illegal lending
 vacillation: wavering
 viscid: sticky
 volubility: talking fluently
