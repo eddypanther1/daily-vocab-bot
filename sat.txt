@@ -133,7 +133,6 @@ profane: disrespectful
 propensity: a tendency
 propitious: favorable
 prudent: careful
-pugnacious: eager to fight
 quaint: charmingly old-fashioned
 quell: to suppress
 querulous: complaining
@@ -156,7 +155,6 @@ rouse: to wake up
 ruminate: to think deeply
 rustic: rural
 salient: significant
-salutary: healthful
 sanction: to approve
 satiate: to satisfy fully
 satire: making fun of something
@@ -286,7 +284,6 @@ elicit: to evoke
 endemic: regularly found in area
 enervate: to drain of energy
 ennui: boredom
-euphemism: mild word for harsh one
 exculpate: to clear from blame
 extraneous: irrelevant
 facetious: flippant humor
