@@ -45,7 +45,6 @@ emulate: to imitate
 ephemeral: short-lived
 esoteric: understood by few
 exacerbate: worsen
-exemplary: outstanding
 extol: to praise
 fallacy: a mistaken belief
 flagrant: blatant
@@ -200,7 +199,6 @@ vapid: dull
 variegated: varied
 venerate: to respect
 verbose: wordy
-verdant: green
 vestige: a trace
 vex: to annoy
 vindicate: to clear from blame
@@ -288,7 +286,6 @@ exculpate: to clear from blame
 extraneous: irrelevant
 facetious: flippant humor
 facilitate: to make easier
-fallacious: based on mistaken belief
 fatuous: silly and pointless
 felicitous: well chosen
 flag: to become tired
