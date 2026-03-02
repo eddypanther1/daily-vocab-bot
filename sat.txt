@@ -274,7 +274,6 @@ disjointed: lacking connection
 dismiss: to treat as unworthy
 disparate: essentially different
 dispassionate: rational and impartial
-dissonance: lack of harmony
 dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
@@ -366,7 +365,6 @@ transparent: allowing light through
 trenchant: vigorous expression
 truism: obvious statement
 tyro: beginner
-unequivocal: unambiguous
 unwitting: not aware
 vacillation: wavering
 viscid: sticky
@@ -385,7 +383,6 @@ futile: useless; hopeless
 homogenous: of the same kind
 log: record of a voyage
 malingerer: one who feigns illness
-preamble: introductory statement
 prohibitive: tending to prevent
 recant: to disclaim; retract
 reproach: to express disapproval
