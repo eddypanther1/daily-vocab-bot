@@ -68,7 +68,6 @@ intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
-lament: to express sorrow
 languid: slow and sluggish
 laud: to praise
 lethargic: tired, lazy
@@ -169,7 +168,6 @@ sporadic: irregular
 stigma: a mark of shame
 stolid: showing no emotion
 submissive: yielding
-substantiate: to prove
 subtle: not obvious
 succulent: juicy
 supercilious: arrogant
@@ -319,7 +317,6 @@ irresolute: uncertain
 juxtapose: to place close together
 largess: generosity
 lassitude: lack of energy
-levee: embankment
 levity: humor in serious matter
 malinger: to feign illness
 mendacious: lying
