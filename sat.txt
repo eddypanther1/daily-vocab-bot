@@ -16,7 +16,6 @@ articulate: able to speak clearly
 astute: clever, intelligent
 avarice: greed
 bellicose: warlike
-benign: harmless
 cacophony: harsh noise
 capitulate: surrender
 caustic: sarcastically biting
@@ -109,7 +108,6 @@ perfidious: disloyal
 permeate: to spread throughout
 peruse: to read carefully
 piety: religious devotion
-placate: to soothe
 placid: calm
 plausible: believable
 plethora: an excess
@@ -222,7 +220,6 @@ acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
 adulation: excessive praise
-adulterate: to make something poorer in quality
 aesthetic: concerned with beauty
 alleviate: to make suffering less severe
 amalgamate: to combine or unite
