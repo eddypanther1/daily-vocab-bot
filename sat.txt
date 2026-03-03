@@ -75,7 +75,6 @@ loquacious: talkative
 luminous: bright
 malleable: capable of being shaped
 maverick: an independent-minded person
-mitigate: to make less severe
 modicum: a small amount
 mollify: to soothe
 mundane: ordinary
@@ -109,7 +108,6 @@ peruse: to read carefully
 piety: religious devotion
 placid: calm
 plausible: believable
-plethora: an excess
 poignant: emotionally moving
 ponderous: heavy, clumsy
 pragmatic: practical
@@ -249,7 +247,6 @@ confound: to cause surprise or confusion
 contention: heated disagreement
 contentious: causing argument
 conventional: based on what is generally done
-convoluted: extremely complex
 craven: cowardly
 credulous: gullible
 debilitate: to make weak
