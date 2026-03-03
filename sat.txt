@@ -270,10 +270,8 @@ effrontery: insolent boldness
 elicit: to evoke
 endemic: regularly found in area
 enervate: to drain of energy
-ennui: boredom
 exculpate: to clear from blame
 extraneous: irrelevant
-facetious: flippant humor
 facilitate: to make easier
 fatuous: silly and pointless
 felicitous: well chosen
@@ -296,7 +294,6 @@ implicit: implied
 impunity: exemption from punishment
 inadvertently: accidentally
 inconsequential: not important
-indefatigable: persisting tirelessly
 indigence: extreme poverty
 indolent: lazy
 ineffable: too great for words
