@@ -97,10 +97,8 @@ paradigm: a model or example
 pariah: an outcast
 parsimonious: stingy
 partisan: biased
-patronize: to talk down to
 paucity: scarcity
 pedantic: showing off learning
-pedestrian: ordinary
 pensive: thoughtful
 perfidious: disloyal
 permeate: to spread throughout
@@ -316,7 +314,6 @@ largess: generosity
 lassitude: lack of energy
 levity: humor in serious matter
 malinger: to feign illness
-mendacious: lying
 misanthrope: hater of humankind
 morose: sullen
 obviate: to remove a need
