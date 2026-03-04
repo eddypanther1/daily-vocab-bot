@@ -25,7 +25,6 @@ condone: to overlook or forgive
 copious: abundant
 cursory: hasty
 dauntless: fearless
-debacle: a disaster
 debunk: to expose as false
 demure: shy
 deride: to mock
@@ -89,7 +88,6 @@ omnipotent: all-powerful
 opulent: wealthy
 ostentatious: showy
 ostracize: to exclude
-overt: open, not hidden
 palliate: to make less severe
 panacea: a cure-all
 paradigm: a model or example
@@ -220,7 +218,6 @@ apprise: to inform
 ascetic: severe self-discipline
 assiduous: showing great care
 asylum: protection granted by a state
-audacious: bold risks
 austere: severe or strict
 aver: to state to be the case
 belie: to contradict
