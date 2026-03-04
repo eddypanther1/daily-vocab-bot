@@ -195,7 +195,6 @@ vestige: a trace
 vex: to annoy
 vindicate: to clear from blame
 vital: essential
-vituperate: to scold
 vivacious: lively
 vociferous: loud
 voluminous: large
@@ -208,7 +207,6 @@ withhold: to hold back
 woe: sorrow
 wrath: anger
 zeal: enthusiasm
-abeyance: temporary suppression or suspension
 accretion: growth or increase by accumulation
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
@@ -269,7 +267,6 @@ efficacy: effectiveness
 effrontery: insolent boldness
 elicit: to evoke
 endemic: regularly found in area
-enervate: to drain of energy
 exculpate: to clear from blame
 extraneous: irrelevant
 facilitate: to make easier
