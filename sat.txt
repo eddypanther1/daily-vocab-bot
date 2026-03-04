@@ -20,7 +20,6 @@ cacophony: harsh noise
 capitulate: surrender
 caustic: sarcastically biting
 censure: to criticize harshly
-chicanery: trickery
 coerce: to force
 condone: to overlook or forgive
 copious: abundant
@@ -203,7 +202,6 @@ wane: to decrease
 wary: cautious
 wax: to increase
 whimsical: playful
-withhold: to hold back
 woe: sorrow
 wrath: anger
 zeal: enthusiasm
@@ -288,7 +286,6 @@ impermeable: not allowing fluid through
 imperturbable: calm
 impervious: unable to be affected
 implicit: implied
-impunity: exemption from punishment
 inadvertently: accidentally
 inconsequential: not important
 indigence: extreme poverty
