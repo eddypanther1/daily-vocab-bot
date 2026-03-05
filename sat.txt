@@ -1,4 +1,3 @@
-abate: to lessen
 abhor: to hate
 accolade: praise or distinction
 acumen: keen insight
@@ -236,7 +235,6 @@ contention: heated disagreement
 contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
-debilitate: to make weak
 decorous: in keeping with good taste
 deference: humble submission
 delineate: to describe precisely
@@ -258,7 +256,6 @@ effrontery: insolent boldness
 elicit: to evoke
 endemic: regularly found in area
 exculpate: to clear from blame
-extraneous: irrelevant
 facilitate: to make easier
 fatuous: silly and pointless
 felicitous: well chosen
