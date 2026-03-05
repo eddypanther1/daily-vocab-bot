@@ -79,7 +79,6 @@ negligent: careless
 neophyte: a beginner
 nonchalant: unconcerned
 obdurate: stubborn
-oblivious: unaware
 obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
@@ -237,7 +236,6 @@ contention: heated disagreement
 contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
-credulous: gullible
 debilitate: to make weak
 decorous: in keeping with good taste
 deference: humble submission
@@ -245,7 +243,6 @@ delineate: to describe precisely
 denigrate: to criticize unfairly
 dichotomy: contrast between two things
 digression: temporary departure from subject
-dilettante: amateur
 disabuse: to persuade someone belief is mistaken
 discerning: having good judgment
 discordant: disagreeing
