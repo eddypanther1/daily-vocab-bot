@@ -73,7 +73,6 @@ loquacious: talkative
 luminous: bright
 malleable: capable of being shaped
 maverick: an independent-minded person
-modicum: a small amount
 mollify: to soothe
 mundane: ordinary
 negligent: careless
@@ -154,7 +153,6 @@ sedentary: sitting a lot
 sedition: rebellion
 serene: calm
 servile: overly submissive
-shrewd: clever
 soporific: causing sleep
 spartan: simple and severe
 sporadic: irregular
@@ -278,7 +276,6 @@ goad: to provoke
 guileless: innocent
 homogeneous: of the same kind
 idolatry: worship of idols
-impassive: not showing emotion
 impermeable: not allowing fluid through
 imperturbable: calm
 impervious: unable to be affected
