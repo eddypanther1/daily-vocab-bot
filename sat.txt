@@ -68,7 +68,6 @@ judicious: wise
 languid: slow and sluggish
 laud: to praise
 lethargic: tired, lazy
-loquacious: talkative
 luminous: bright
 malleable: capable of being shaped
 maverick: an independent-minded person
@@ -89,7 +88,6 @@ palliate: to make less severe
 panacea: a cure-all
 paradigm: a model or example
 pariah: an outcast
-parsimonious: stingy
 partisan: biased
 paucity: scarcity
 pedantic: showing off learning
@@ -157,7 +155,6 @@ stigma: a mark of shame
 stolid: showing no emotion
 submissive: yielding
 subtle: not obvious
-succulent: juicy
 supercilious: arrogant
 superfluous: unnecessary
 surfeit: an excess
