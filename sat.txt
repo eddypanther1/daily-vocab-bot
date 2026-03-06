@@ -105,7 +105,6 @@ ponderous: heavy, clumsy
 pragmatic: practical
 precarious: dangerous
 precipitate: to cause to happen suddenly
-preclude: to prevent
 precocious: talented at a young age
 predecessor: one who came before
 premonition: a feeling of future event
@@ -210,7 +209,6 @@ analogous: comparable
 apocryphal: of doubtful authenticity
 appease: to pacify
 apprise: to inform
-ascetic: severe self-discipline
 assiduous: showing great care
 asylum: protection granted by a state
 austere: severe or strict
@@ -286,7 +284,6 @@ intractable: hard to control
 intransigent: unwilling to change views
 inured: accustomed to unpleasantness
 irresolute: uncertain
-juxtapose: to place close together
 largess: generosity
 lassitude: lack of energy
 levity: humor in serious matter
