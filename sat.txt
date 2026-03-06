@@ -205,7 +205,6 @@ acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
 adulation: excessive praise
 aesthetic: concerned with beauty
-alleviate: to make suffering less severe
 amalgamate: to combine or unite
 analogous: comparable
 apocryphal: of doubtful authenticity
@@ -235,7 +234,6 @@ contention: heated disagreement
 contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
-decorous: in keeping with good taste
 deference: humble submission
 delineate: to describe precisely
 denigrate: to criticize unfairly
@@ -311,7 +309,6 @@ propriety: conforming to standards
 proscribe: to forbid
 pungent: sharp taste or smell
 quibble: slight objection
-rarefy: to make less dense
 recondite: little known
 refractory: stubborn
 replete: filled
