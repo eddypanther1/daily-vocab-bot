@@ -56,7 +56,6 @@ imminent: about to happen
 impetuous: impulsive
 impugn: to call into question
 inane: silly
-inevitable: unavoidable
 infer: to deduce
 innate: inborn
 insatiable: cannot be satisfied
@@ -223,7 +222,6 @@ compendium: collection of detailed information
 complaisant: willing to please
 conciliatory: intended to pacify
 confound: to cause surprise or confusion
-contention: heated disagreement
 contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
@@ -308,7 +306,6 @@ saturate: to soak thoroughly
 savor: to enjoy
 secrete: to produce and discharge
 shard: piece of broken material
-specious: superficially plausible
 subpoena: writ to attend court
 subside: to become less intense
 supersede: to take place of
