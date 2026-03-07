@@ -99,7 +99,6 @@ piety: religious devotion
 placid: calm
 plausible: believable
 poignant: emotionally moving
-ponderous: heavy, clumsy
 pragmatic: practical
 precarious: dangerous
 precipitate: to cause to happen suddenly
@@ -111,7 +110,6 @@ prevalent: widespread
 pristine: pure
 proclivity: a tendency
 prodigal: wasteful
-prodigious: enormous
 profane: disrespectful
 propensity: a tendency
 propitious: favorable
@@ -247,7 +245,6 @@ dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
 elicit: to evoke
-endemic: regularly found in area
 exculpate: to clear from blame
 facilitate: to make easier
 fatuous: silly and pointless
