@@ -1,4 +1,3 @@
-abhor: to hate
 accolade: praise or distinction
 acumen: keen insight
 adroit: skillful
@@ -59,7 +58,6 @@ inane: silly
 infer: to deduce
 innate: inborn
 insatiable: cannot be satisfied
-insular: narrow-minded
 intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
@@ -75,7 +73,6 @@ mundane: ordinary
 negligent: careless
 neophyte: a beginner
 nonchalant: unconcerned
-obdurate: stubborn
 obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
