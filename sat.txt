@@ -21,7 +21,6 @@ censure: to criticize harshly
 coerce: to force
 condone: to overlook or forgive
 copious: abundant
-cursory: hasty
 dauntless: fearless
 debunk: to expose as false
 demure: shy
@@ -248,7 +247,6 @@ flag: to become tired
 florid: red complexion or intricate
 flout: to openly disregard
 forestall: to prevent by advance action
-fractious: irritable
 frugality: thriftiness
 germane: relevant
 goad: to provoke
@@ -313,7 +311,6 @@ transgression: offense
 transparent: allowing light through
 trenchant: vigorous expression
 truism: obvious statement
-tyro: beginner
 unwitting: not aware
 vacillation: wavering
 viscid: sticky
