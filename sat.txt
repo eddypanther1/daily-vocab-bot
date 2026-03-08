@@ -22,7 +22,6 @@ coerce: to force
 condone: to overlook or forgive
 copious: abundant
 dauntless: fearless
-debunk: to expose as false
 demure: shy
 deride: to mock
 despot: a dictator
@@ -147,7 +146,6 @@ stigma: a mark of shame
 stolid: showing no emotion
 submissive: yielding
 subtle: not obvious
-supercilious: arrogant
 surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
@@ -326,7 +324,6 @@ futile: useless; hopeless
 homogenous: of the same kind
 log: record of a voyage
 malingerer: one who feigns illness
-prohibitive: tending to prevent
 recant: to disclaim; retract
 reproach: to express disapproval
 resolution: determination
