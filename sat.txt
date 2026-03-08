@@ -67,7 +67,6 @@ lethargic: tired, lazy
 luminous: bright
 malleable: capable of being shaped
 maverick: an independent-minded person
-mollify: to soothe
 mundane: ordinary
 negligent: careless
 neophyte: a beginner
@@ -149,7 +148,6 @@ stolid: showing no emotion
 submissive: yielding
 subtle: not obvious
 supercilious: arrogant
-superfluous: unnecessary
 surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
@@ -255,7 +253,6 @@ homogeneous: of the same kind
 idolatry: worship of idols
 impermeable: not allowing fluid through
 imperturbable: calm
-impervious: unable to be affected
 implicit: implied
 inadvertently: accidentally
 inconsequential: not important
