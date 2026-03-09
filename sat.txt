@@ -108,8 +108,6 @@ quell: to suppress
 querulous: complaining
 quixotic: overly idealistic
 rash: impulsive
-ravenous: very hungry
-rebuke: to criticize
 recalcitrant: stubborn
 recluse: one who lives alone
 reconcile: to make peace
@@ -121,7 +119,6 @@ resplendent: shining
 reticent: silent
 robust: strong
 rouse: to wake up
-ruminate: to think deeply
 rustic: rural
 salient: significant
 sanction: to approve
