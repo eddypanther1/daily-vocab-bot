@@ -14,7 +14,6 @@ articulate: able to speak clearly
 astute: clever, intelligent
 avarice: greed
 bellicose: warlike
-cacophony: harsh noise
 capitulate: surrender
 caustic: sarcastically biting
 censure: to criticize harshly
@@ -118,7 +117,6 @@ recalcitrant: stubborn
 recluse: one who lives alone
 reconcile: to make peace
 rectify: to correct
-redundant: repetitive
 renounce: to give up
 resilient: able to recover
 respite: a break
@@ -183,7 +181,6 @@ wax: to increase
 whimsical: playful
 woe: sorrow
 wrath: anger
-zeal: enthusiasm
 accretion: growth or increase by accumulation
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
