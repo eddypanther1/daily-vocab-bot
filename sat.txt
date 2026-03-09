@@ -46,14 +46,12 @@ frivolous: unimportant
 frugal: thrifty
 guile: deceit
 hackneyed: overused
-hypothetical: assumed
 idiosyncrasy: personal peculiarity
 imminent: about to happen
 impetuous: impulsive
 impugn: to call into question
 inane: silly
 infer: to deduce
-innate: inborn
 insatiable: cannot be satisfied
 intrepid: fearless
 irreverent: disrespectful
@@ -101,7 +99,6 @@ pretentious: showy
 prevalent: widespread
 pristine: pure
 proclivity: a tendency
-prodigal: wasteful
 profane: disrespectful
 propensity: a tendency
 propitious: favorable
