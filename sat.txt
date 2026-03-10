@@ -143,7 +143,6 @@ taciturn: silent
 tedious: boring
 temerity: boldness
 temperance: moderation
-tenacious: persistent
 tenuous: weak
 timorous: fearful
 torrid: very hot
@@ -195,7 +194,6 @@ burgeon: to grow rapidly
 burnish: to polish
 buttress: a support
 cajole: to persuade by coaxing
-catalyst: something causing change
 coagulate: change to solid
 coda: concluding passage
 compendium: collection of detailed information
@@ -261,7 +259,6 @@ malinger: to feign illness
 misanthrope: hater of humankind
 morose: sullen
 obviate: to remove a need
-occlude: to obstruct
 opprobrium: harsh criticism
 oscillate: to swing back and forth
 paragon: perfect example
