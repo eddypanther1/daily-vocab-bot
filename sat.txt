@@ -39,7 +39,6 @@ esoteric: understood by few
 exacerbate: worsen
 extol: to praise
 fallacy: a mistaken belief
-flagrant: blatant
 fluctuate: to vary
 fortuitous: lucky
 frivolous: unimportant
@@ -148,7 +147,6 @@ tenacious: persistent
 tenuous: weak
 timorous: fearful
 torrid: very hot
-trepidation: fear
 trite: overused
 truncate: to shorten
 ubiquitous: found everywhere
@@ -175,7 +173,6 @@ wax: to increase
 whimsical: playful
 woe: sorrow
 wrath: anger
-accretion: growth or increase by accumulation
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
