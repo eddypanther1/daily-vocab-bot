@@ -48,7 +48,6 @@ hackneyed: overused
 idiosyncrasy: personal peculiarity
 imminent: about to happen
 impetuous: impulsive
-impugn: to call into question
 inane: silly
 infer: to deduce
 insatiable: cannot be satisfied
@@ -238,7 +237,6 @@ idolatry: worship of idols
 impermeable: not allowing fluid through
 imperturbable: calm
 implicit: implied
-inadvertently: accidentally
 inconsequential: not important
 indigence: extreme poverty
 indolent: lazy
@@ -286,7 +284,6 @@ subside: to become less intense
 supersede: to take place of
 supposition: uncertain belief
 tangential: diverging
-tortuous: full of twists
 transgression: offense
 transparent: allowing light through
 trenchant: vigorous expression
