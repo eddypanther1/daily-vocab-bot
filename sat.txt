@@ -68,7 +68,6 @@ obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
 omnipotent: all-powerful
-opulent: wealthy
 ostentatious: showy
 ostracize: to exclude
 palliate: to make less severe
@@ -127,7 +126,6 @@ sedition: rebellion
 serene: calm
 servile: overly submissive
 soporific: causing sleep
-spartan: simple and severe
 sporadic: irregular
 stigma: a mark of shame
 stolid: showing no emotion
@@ -136,7 +134,6 @@ subtle: not obvious
 surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
-tedious: boring
 temerity: boldness
 temperance: moderation
 tenuous: weak
