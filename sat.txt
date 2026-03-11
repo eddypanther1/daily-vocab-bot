@@ -35,7 +35,6 @@ elucidate: to explain clearly
 emulate: to imitate
 ephemeral: short-lived
 esoteric: understood by few
-exacerbate: worsen
 extol: to praise
 fallacy: a mistaken belief
 fluctuate: to vary
@@ -58,7 +57,6 @@ languid: slow and sluggish
 laud: to praise
 lethargic: tired, lazy
 luminous: bright
-malleable: capable of being shaped
 maverick: an independent-minded person
 mundane: ordinary
 negligent: careless
@@ -300,7 +298,6 @@ futile: useless; hopeless
 homogenous: of the same kind
 log: record of a voyage
 malingerer: one who feigns illness
-recant: to disclaim; retract
 reproach: to express disapproval
 resolution: determination
 reverent: respectful
