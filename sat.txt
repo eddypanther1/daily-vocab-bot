@@ -1,6 +1,5 @@
 accolade: praise or distinction
 acumen: keen insight
-adroit: skillful
 alacrity: eagerness
 ambivalent: having mixed feelings
 amiable: friendly
@@ -80,7 +79,6 @@ partisan: biased
 paucity: scarcity
 pedantic: showing off learning
 pensive: thoughtful
-perfidious: disloyal
 permeate: to spread throughout
 peruse: to read carefully
 piety: religious devotion
@@ -106,7 +104,6 @@ quell: to suppress
 querulous: complaining
 quixotic: overly idealistic
 rash: impulsive
-recalcitrant: stubborn
 recluse: one who lives alone
 reconcile: to make peace
 rectify: to correct
