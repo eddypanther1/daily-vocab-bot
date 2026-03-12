@@ -165,7 +165,6 @@ acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
 adulation: excessive praise
-aesthetic: concerned with beauty
 amalgamate: to combine or unite
 analogous: comparable
 apocryphal: of doubtful authenticity
@@ -177,7 +176,6 @@ austere: severe or strict
 aver: to state to be the case
 belie: to contradict
 belligerent: hostile and aggressive
-berate: to scold angrily
 blight: a thing that damages
 burgeon: to grow rapidly
 burnish: to polish
@@ -222,7 +220,6 @@ frugality: thriftiness
 germane: relevant
 goad: to provoke
 guileless: innocent
-homogeneous: of the same kind
 idolatry: worship of idols
 impermeable: not allowing fluid through
 imperturbable: calm
