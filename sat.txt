@@ -11,7 +11,6 @@ apprehensive: fearful or anxious
 arduous: difficult
 articulate: able to speak clearly
 astute: clever, intelligent
-avarice: greed
 bellicose: warlike
 capitulate: surrender
 caustic: sarcastically biting
@@ -48,7 +47,6 @@ imminent: about to happen
 impetuous: impulsive
 inane: silly
 infer: to deduce
-insatiable: cannot be satisfied
 intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
@@ -274,7 +272,6 @@ shard: piece of broken material
 subpoena: writ to attend court
 subside: to become less intense
 supersede: to take place of
-supposition: uncertain belief
 tangential: diverging
 transgression: offense
 transparent: allowing light through
