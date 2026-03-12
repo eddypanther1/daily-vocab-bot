@@ -125,7 +125,6 @@ soporific: causing sleep
 sporadic: irregular
 stigma: a mark of shame
 stolid: showing no emotion
-submissive: yielding
 subtle: not obvious
 surfeit: an excess
 sycophant: a flatterer
@@ -149,7 +148,6 @@ venerate: to respect
 verbose: wordy
 vestige: a trace
 vex: to annoy
-vindicate: to clear from blame
 vital: essential
 vivacious: lively
 vociferous: loud
@@ -227,7 +225,6 @@ implicit: implied
 inconsequential: not important
 indigence: extreme poverty
 indolent: lazy
-ineffable: too great for words
 ingenuous: innocent
 inherent: existing as permanent attribute
 insinuate: to suggest indirectly
