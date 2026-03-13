@@ -51,7 +51,6 @@ intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
-languid: slow and sluggish
 laud: to praise
 lethargic: tired, lazy
 luminous: bright
@@ -217,7 +216,6 @@ forestall: to prevent by advance action
 frugality: thriftiness
 germane: relevant
 goad: to provoke
-guileless: innocent
 idolatry: worship of idols
 impermeable: not allowing fluid through
 imperturbable: calm
@@ -291,7 +289,6 @@ log: record of a voyage
 malingerer: one who feigns illness
 reproach: to express disapproval
 resolution: determination
-reverent: respectful
 skeptic: doubter
 spectrum: colored band
 viable: practical
