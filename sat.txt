@@ -22,7 +22,6 @@ dauntless: fearless
 demure: shy
 deride: to mock
 despot: a dictator
-diligent: hard-working
 disdain: lack of respect
 disparage: to belittle
 diverge: to separate
@@ -56,7 +55,6 @@ lethargic: tired, lazy
 luminous: bright
 maverick: an independent-minded person
 mundane: ordinary
-negligent: careless
 neophyte: a beginner
 nonchalant: unconcerned
 obsolete: no longer in use
@@ -241,7 +239,6 @@ opprobrium: harsh criticism
 paragon: perfect example
 penury: extreme poverty
 plasticity: easily shaped
-plummet: to fall straight down
 precursor: forerunner
 prevaricate: to speak evasively
 problematic: constituting a problem
