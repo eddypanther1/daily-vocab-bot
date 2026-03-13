@@ -112,7 +112,6 @@ rustic: rural
 salient: significant
 sanction: to approve
 satiate: to satisfy fully
-satire: making fun of something
 scanty: insufficient
 scrupulous: careful
 scrutinize: to examine closely
@@ -169,7 +168,6 @@ appease: to pacify
 apprise: to inform
 assiduous: showing great care
 asylum: protection granted by a state
-austere: severe or strict
 aver: to state to be the case
 belie: to contradict
 belligerent: hostile and aggressive
@@ -240,7 +238,6 @@ misanthrope: hater of humankind
 morose: sullen
 obviate: to remove a need
 opprobrium: harsh criticism
-oscillate: to swing back and forth
 paragon: perfect example
 penury: extreme poverty
 plasticity: easily shaped
