@@ -2,7 +2,6 @@ accolade: praise or distinction
 acumen: keen insight
 alacrity: eagerness
 ambivalent: having mixed feelings
-amiable: friendly
 anachronistic: out of chronological order
 antithesis: the direct opposite
 apathy: lack of interest
@@ -108,7 +107,6 @@ salient: significant
 sanction: to approve
 satiate: to satisfy fully
 scanty: insufficient
-scrupulous: careful
 scrutinize: to examine closely
 sedentary: sitting a lot
 sedition: rebellion
@@ -276,7 +274,6 @@ homogenous: of the same kind
 log: record of a voyage
 malingerer: one who feigns illness
 reproach: to express disapproval
-resolution: determination
 skeptic: doubter
 spectrum: colored band
 viable: practical
