@@ -8,7 +8,6 @@ antithesis: the direct opposite
 apathy: lack of interest
 apex: highest point
 apprehensive: fearful or anxious
-arduous: difficult
 articulate: able to speak clearly
 astute: clever, intelligent
 bellicose: warlike
@@ -80,7 +79,6 @@ poignant: emotionally moving
 pragmatic: practical
 precarious: dangerous
 precocious: talented at a young age
-predecessor: one who came before
 premonition: a feeling of future event
 pretentious: showy
 prevalent: widespread
@@ -221,7 +219,6 @@ ingenuous: innocent
 inherent: existing as permanent attribute
 insinuate: to suggest indirectly
 insipid: lacking flavor
-insularity: ignorance of other cultures
 intractable: hard to control
 intransigent: unwilling to change views
 inured: accustomed to unpleasantness
