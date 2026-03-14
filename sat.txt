@@ -79,7 +79,6 @@ plausible: believable
 poignant: emotionally moving
 pragmatic: practical
 precarious: dangerous
-precipitate: to cause to happen suddenly
 precocious: talented at a young age
 predecessor: one who came before
 premonition: a feeling of future event
@@ -201,7 +200,6 @@ dupe: to deceive
 efficacy: effectiveness
 effrontery: insolent boldness
 elicit: to evoke
-exculpate: to clear from blame
 facilitate: to make easier
 fatuous: silly and pointless
 felicitous: well chosen
@@ -271,7 +269,6 @@ wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 zealous: showing great energy
 anomalous: abnormal or irregular
-cacophonous: discordant
 castigation: punishment; severe criticism
 compliant: yielding
 decorum: propriety; good taste
