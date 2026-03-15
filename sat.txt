@@ -10,7 +10,6 @@ apprehensive: fearful or anxious
 articulate: able to speak clearly
 astute: clever, intelligent
 bellicose: warlike
-capitulate: surrender
 caustic: sarcastically biting
 censure: to criticize harshly
 coerce: to force
@@ -76,7 +75,6 @@ plausible: believable
 poignant: emotionally moving
 pragmatic: practical
 precarious: dangerous
-precocious: talented at a young age
 premonition: a feeling of future event
 pretentious: showy
 prevalent: widespread
@@ -264,7 +262,6 @@ anomalous: abnormal or irregular
 castigation: punishment; severe criticism
 compliant: yielding
 decorum: propriety; good taste
-diffidence: shyness
 enhance: to increase; improve
 futile: useless; hopeless
 homogenous: of the same kind
