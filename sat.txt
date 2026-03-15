@@ -65,7 +65,6 @@ palliate: to make less severe
 panacea: a cure-all
 paradigm: a model or example
 pariah: an outcast
-partisan: biased
 paucity: scarcity
 pedantic: showing off learning
 pensive: thoughtful
@@ -145,7 +144,6 @@ vociferous: loud
 voluminous: large
 voracious: very hungry
 wane: to decrease
-wary: cautious
 wax: to increase
 whimsical: playful
 woe: sorrow
@@ -258,7 +256,6 @@ trenchant: vigorous expression
 truism: obvious statement
 unwitting: not aware
 vacillation: wavering
-viscid: sticky
 volubility: talking fluently
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
