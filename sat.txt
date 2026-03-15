@@ -60,7 +60,6 @@ ominous: threatening
 omnipotent: all-powerful
 ostentatious: showy
 ostracize: to exclude
-palliate: to make less severe
 panacea: a cure-all
 paradigm: a model or example
 pariah: an outcast
@@ -182,7 +181,6 @@ digression: temporary departure from subject
 disabuse: to persuade someone belief is mistaken
 discerning: having good judgment
 discordant: disagreeing
-discrepancy: lack of compatibility
 discrete: individually separate
 disjointed: lacking connection
 dismiss: to treat as unworthy
@@ -254,7 +252,6 @@ trenchant: vigorous expression
 truism: obvious statement
 unwitting: not aware
 vacillation: wavering
-volubility: talking fluently
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 zealous: showing great energy
