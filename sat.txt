@@ -84,7 +84,6 @@ propitious: favorable
 prudent: careful
 quaint: charmingly old-fashioned
 quell: to suppress
-querulous: complaining
 quixotic: overly idealistic
 rash: impulsive
 recluse: one who lives alone
@@ -116,7 +115,6 @@ surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
 temerity: boldness
-temperance: moderation
 tenuous: weak
 timorous: fearful
 torrid: very hot
@@ -179,7 +177,6 @@ dichotomy: contrast between two things
 digression: temporary departure from subject
 disabuse: to persuade someone belief is mistaken
 discerning: having good judgment
-discordant: disagreeing
 discrete: individually separate
 disjointed: lacking connection
 dismiss: to treat as unworthy
