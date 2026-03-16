@@ -188,7 +188,6 @@ disparate: essentially different
 dispassionate: rational and impartial
 dupe: to deceive
 efficacy: effectiveness
-effrontery: insolent boldness
 elicit: to evoke
 facilitate: to make easier
 fatuous: silly and pointless
@@ -204,7 +203,6 @@ idolatry: worship of idols
 impermeable: not allowing fluid through
 imperturbable: calm
 implicit: implied
-inconsequential: not important
 indigence: extreme poverty
 indolent: lazy
 ingenuous: innocent
@@ -230,7 +228,6 @@ precursor: forerunner
 prevaricate: to speak evasively
 problematic: constituting a problem
 propitiate: to win favor
-propriety: conforming to standards
 proscribe: to forbid
 pungent: sharp taste or smell
 quibble: slight objection
