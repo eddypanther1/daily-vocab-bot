@@ -1,4 +1,3 @@
-accolade: praise or distinction
 acumen: keen insight
 alacrity: eagerness
 ambivalent: having mixed feelings
@@ -230,11 +229,9 @@ problematic: constituting a problem
 propitiate: to win favor
 proscribe: to forbid
 pungent: sharp taste or smell
-quibble: slight objection
 recondite: little known
 refractory: stubborn
 replete: filled
-rubric: set of instructions
 saturate: to soak thoroughly
 savor: to enjoy
 secrete: to produce and discharge
