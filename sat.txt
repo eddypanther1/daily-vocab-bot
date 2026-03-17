@@ -47,7 +47,6 @@ irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
 laud: to praise
-lethargic: tired, lazy
 luminous: bright
 maverick: an independent-minded person
 mundane: ordinary
@@ -164,7 +163,6 @@ coagulate: change to solid
 coda: concluding passage
 compendium: collection of detailed information
 complaisant: willing to please
-conciliatory: intended to pacify
 confound: to cause surprise or confusion
 contentious: causing argument
 conventional: based on what is generally done
@@ -249,7 +247,6 @@ compliant: yielding
 decorum: propriety; good taste
 enhance: to increase; improve
 futile: useless; hopeless
-homogenous: of the same kind
 log: record of a voyage
 malingerer: one who feigns illness
 reproach: to express disapproval
