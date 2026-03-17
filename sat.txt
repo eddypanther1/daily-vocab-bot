@@ -57,7 +57,6 @@ obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
 omnipotent: all-powerful
-ostentatious: showy
 ostracize: to exclude
 panacea: a cure-all
 paradigm: a model or example
@@ -220,7 +219,6 @@ opprobrium: harsh criticism
 paragon: perfect example
 penury: extreme poverty
 plasticity: easily shaped
-precursor: forerunner
 prevaricate: to speak evasively
 problematic: constituting a problem
 propitiate: to win favor
@@ -245,7 +243,6 @@ unwitting: not aware
 vacillation: wavering
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
-zealous: showing great energy
 anomalous: abnormal or irregular
 castigation: punishment; severe criticism
 compliant: yielding
