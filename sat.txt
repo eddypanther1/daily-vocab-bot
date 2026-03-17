@@ -46,7 +46,6 @@ intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
-laud: to praise
 luminous: bright
 maverick: an independent-minded person
 mundane: ordinary
@@ -97,7 +96,6 @@ rouse: to wake up
 rustic: rural
 salient: significant
 sanction: to approve
-satiate: to satisfy fully
 scanty: insufficient
 scrutinize: to examine closely
 sedentary: sitting a lot
@@ -184,7 +182,6 @@ efficacy: effectiveness
 elicit: to evoke
 facilitate: to make easier
 fatuous: silly and pointless
-felicitous: well chosen
 flag: to become tired
 florid: red complexion or intricate
 flout: to openly disregard
