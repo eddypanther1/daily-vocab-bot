@@ -60,7 +60,6 @@ paradigm: a model or example
 pariah: an outcast
 paucity: scarcity
 pedantic: showing off learning
-pensive: thoughtful
 permeate: to spread throughout
 peruse: to read carefully
 placid: calm
@@ -141,7 +140,6 @@ amalgamate: to combine or unite
 analogous: comparable
 apocryphal: of doubtful authenticity
 apprise: to inform
-assiduous: showing great care
 asylum: protection granted by a state
 aver: to state to be the case
 belie: to contradict
@@ -197,7 +195,6 @@ intractable: hard to control
 intransigent: unwilling to change views
 inured: accustomed to unpleasantness
 irresolute: uncertain
-largess: generosity
 lassitude: lack of energy
 levity: humor in serious matter
 malinger: to feign illness
