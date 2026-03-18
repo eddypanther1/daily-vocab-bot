@@ -41,7 +41,6 @@ idiosyncrasy: personal peculiarity
 imminent: about to happen
 impetuous: impulsive
 inane: silly
-infer: to deduce
 intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
@@ -64,7 +63,6 @@ pedantic: showing off learning
 pensive: thoughtful
 permeate: to spread throughout
 peruse: to read carefully
-piety: religious devotion
 placid: calm
 plausible: believable
 poignant: emotionally moving
@@ -119,7 +117,6 @@ unprecedented: never having happened before
 upbraid: to scold
 usurp: to seize power
 utilitarian: useful
-utopian: idealistic
 vapid: dull
 variegated: varied
 venerate: to respect
