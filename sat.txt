@@ -81,7 +81,6 @@ propitious: favorable
 prudent: careful
 quaint: charmingly old-fashioned
 quell: to suppress
-quixotic: overly idealistic
 rash: impulsive
 recluse: one who lives alone
 reconcile: to make peace
@@ -100,7 +99,6 @@ scanty: insufficient
 scrutinize: to examine closely
 sedentary: sitting a lot
 sedition: rebellion
-serene: calm
 servile: overly submissive
 soporific: causing sleep
 sporadic: irregular
@@ -145,7 +143,6 @@ adulation: excessive praise
 amalgamate: to combine or unite
 analogous: comparable
 apocryphal: of doubtful authenticity
-appease: to pacify
 apprise: to inform
 assiduous: showing great care
 asylum: protection granted by a state
