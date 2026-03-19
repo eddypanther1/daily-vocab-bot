@@ -121,13 +121,11 @@ vestige: a trace
 vex: to annoy
 vital: essential
 vivacious: lively
-vociferous: loud
 voluminous: large
 voracious: very hungry
 wane: to decrease
 wax: to increase
 whimsical: playful
-woe: sorrow
 wrath: anger
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
@@ -224,7 +222,6 @@ unwitting: not aware
 vacillation: wavering
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
-anomalous: abnormal or irregular
 castigation: punishment; severe criticism
 compliant: yielding
 decorum: propriety; good taste
