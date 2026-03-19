@@ -29,7 +29,6 @@ emulate: to imitate
 ephemeral: short-lived
 esoteric: understood by few
 extol: to praise
-fallacy: a mistaken belief
 fluctuate: to vary
 fortuitous: lucky
 frivolous: unimportant
@@ -74,7 +73,6 @@ proclivity: a tendency
 profane: disrespectful
 propensity: a tendency
 propitious: favorable
-prudent: careful
 quaint: charmingly old-fashioned
 quell: to suppress
 rash: impulsive
@@ -198,7 +196,6 @@ levity: humor in serious matter
 malinger: to feign illness
 misanthrope: hater of humankind
 morose: sullen
-obviate: to remove a need
 opprobrium: harsh criticism
 paragon: perfect example
 penury: extreme poverty
