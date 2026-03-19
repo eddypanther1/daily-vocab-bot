@@ -10,7 +10,6 @@ articulate: able to speak clearly
 astute: clever, intelligent
 bellicose: warlike
 caustic: sarcastically biting
-censure: to criticize harshly
 coerce: to force
 condone: to overlook or forgive
 copious: abundant
@@ -163,7 +162,6 @@ denigrate: to criticize unfairly
 dichotomy: contrast between two things
 digression: temporary departure from subject
 disabuse: to persuade someone belief is mistaken
-discerning: having good judgment
 discrete: individually separate
 disjointed: lacking connection
 dismiss: to treat as unworthy
@@ -237,7 +235,6 @@ enhance: to increase; improve
 futile: useless; hopeless
 log: record of a voyage
 malingerer: one who feigns illness
-reproach: to express disapproval
 skeptic: doubter
 spectrum: colored band
 viable: practical
