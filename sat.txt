@@ -56,7 +56,6 @@ panacea: a cure-all
 paradigm: a model or example
 pariah: an outcast
 paucity: scarcity
-pedantic: showing off learning
 permeate: to spread throughout
 peruse: to read carefully
 placid: calm
@@ -67,7 +66,6 @@ precarious: dangerous
 pretentious: showy
 prevalent: widespread
 pristine: pure
-proclivity: a tendency
 profane: disrespectful
 propensity: a tendency
 propitious: favorable
@@ -185,7 +183,6 @@ insipid: lacking flavor
 intractable: hard to control
 intransigent: unwilling to change views
 inured: accustomed to unpleasantness
-irresolute: uncertain
 lassitude: lack of energy
 levity: humor in serious matter
 malinger: to feign illness
