@@ -82,13 +82,11 @@ resplendent: shining
 reticent: silent
 robust: strong
 rouse: to wake up
-rustic: rural
 salient: significant
 sanction: to approve
 scanty: insufficient
 scrutinize: to examine closely
 sedentary: sitting a lot
-sedition: rebellion
 servile: overly submissive
 sporadic: irregular
 stigma: a mark of shame
@@ -127,7 +125,6 @@ acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
 adulation: excessive praise
 amalgamate: to combine or unite
-analogous: comparable
 apocryphal: of doubtful authenticity
 apprise: to inform
 asylum: protection granted by a state
