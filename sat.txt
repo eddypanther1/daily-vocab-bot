@@ -39,7 +39,6 @@ idiosyncrasy: personal peculiarity
 imminent: about to happen
 impetuous: impulsive
 inane: silly
-intrepid: fearless
 irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
@@ -65,7 +64,6 @@ plausible: believable
 poignant: emotionally moving
 pragmatic: practical
 precarious: dangerous
-premonition: a feeling of future event
 pretentious: showy
 prevalent: widespread
 pristine: pure
@@ -94,7 +92,6 @@ scrutinize: to examine closely
 sedentary: sitting a lot
 sedition: rebellion
 servile: overly submissive
-soporific: causing sleep
 sporadic: irregular
 stigma: a mark of shame
 stolid: showing no emotion
