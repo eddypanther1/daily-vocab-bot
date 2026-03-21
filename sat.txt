@@ -29,7 +29,6 @@ emulate: to imitate
 ephemeral: short-lived
 esoteric: understood by few
 extol: to praise
-fluctuate: to vary
 fortuitous: lucky
 frivolous: unimportant
 frugal: thrifty
@@ -150,7 +149,6 @@ discrete: individually separate
 disjointed: lacking connection
 dismiss: to treat as unworthy
 disparate: essentially different
-dispassionate: rational and impartial
 dupe: to deceive
 efficacy: effectiveness
 elicit: to evoke
@@ -168,7 +166,6 @@ imperturbable: calm
 implicit: implied
 indigence: extreme poverty
 indolent: lazy
-ingenuous: innocent
 inherent: existing as permanent attribute
 insinuate: to suggest indirectly
 insipid: lacking flavor
