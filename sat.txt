@@ -101,7 +101,6 @@ torrid: very hot
 trite: overused
 truncate: to shorten
 ubiquitous: found everywhere
-unprecedented: never having happened before
 upbraid: to scold
 usurp: to seize power
 utilitarian: useful
@@ -133,7 +132,6 @@ belligerent: hostile and aggressive
 blight: a thing that damages
 burgeon: to grow rapidly
 burnish: to polish
-buttress: a support
 cajole: to persuade by coaxing
 coagulate: change to solid
 coda: concluding passage
@@ -207,7 +205,6 @@ transparent: allowing light through
 trenchant: vigorous expression
 truism: obvious statement
 unwitting: not aware
-vacillation: wavering
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 castigation: punishment; severe criticism
