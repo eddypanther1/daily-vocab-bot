@@ -80,7 +80,6 @@ resilient: able to recover
 respite: a break
 resplendent: shining
 reticent: silent
-robust: strong
 rouse: to wake up
 salient: significant
 sanction: to approve
@@ -145,7 +144,6 @@ contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
 deference: humble submission
-delineate: to describe precisely
 denigrate: to criticize unfairly
 dichotomy: contrast between two things
 digression: temporary departure from subject
@@ -161,7 +159,6 @@ elicit: to evoke
 facilitate: to make easier
 fatuous: silly and pointless
 flag: to become tired
-florid: red complexion or intricate
 flout: to openly disregard
 forestall: to prevent by advance action
 frugality: thriftiness
