@@ -57,14 +57,12 @@ pariah: an outcast
 paucity: scarcity
 permeate: to spread throughout
 peruse: to read carefully
-placid: calm
 plausible: believable
 poignant: emotionally moving
 pragmatic: practical
 precarious: dangerous
 pretentious: showy
 prevalent: widespread
-pristine: pure
 profane: disrespectful
 propensity: a tendency
 propitious: favorable
@@ -191,7 +189,6 @@ savor: to enjoy
 secrete: to produce and discharge
 shard: piece of broken material
 subpoena: writ to attend court
-subside: to become less intense
 supersede: to take place of
 tangential: diverging
 transgression: offense
