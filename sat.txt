@@ -77,7 +77,6 @@ rectify: to correct
 renounce: to give up
 resilient: able to recover
 respite: a break
-resplendent: shining
 reticent: silent
 rouse: to wake up
 salient: significant
@@ -86,7 +85,6 @@ scanty: insufficient
 scrutinize: to examine closely
 sedentary: sitting a lot
 servile: overly submissive
-sporadic: irregular
 stigma: a mark of shame
 stolid: showing no emotion
 subtle: not obvious
@@ -173,7 +171,6 @@ intractable: hard to control
 intransigent: unwilling to change views
 inured: accustomed to unpleasantness
 lassitude: lack of energy
-levity: humor in serious matter
 malinger: to feign illness
 misanthrope: hater of humankind
 morose: sullen
