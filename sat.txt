@@ -55,7 +55,6 @@ panacea: a cure-all
 paradigm: a model or example
 pariah: an outcast
 paucity: scarcity
-permeate: to spread throughout
 peruse: to read carefully
 plausible: believable
 poignant: emotionally moving
@@ -121,7 +120,6 @@ amalgamate: to combine or unite
 apocryphal: of doubtful authenticity
 apprise: to inform
 asylum: protection granted by a state
-aver: to state to be the case
 belie: to contradict
 belligerent: hostile and aggressive
 blight: a thing that damages
@@ -189,7 +187,6 @@ savor: to enjoy
 secrete: to produce and discharge
 shard: piece of broken material
 subpoena: writ to attend court
-supersede: to take place of
 tangential: diverging
 transgression: offense
 transparent: allowing light through
