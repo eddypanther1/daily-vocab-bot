@@ -21,12 +21,10 @@ disdain: lack of respect
 disparage: to belittle
 diverge: to separate
 dogmatic: strongly opinionated
-ebullient: enthusiastic
 eclectic: from various sources
 egregious: outstandingly bad
 elucidate: to explain clearly
 emulate: to imitate
-ephemeral: short-lived
 esoteric: understood by few
 extol: to praise
 fortuitous: lucky
@@ -115,7 +113,6 @@ wrath: anger
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
-adulation: excessive praise
 amalgamate: to combine or unite
 apocryphal: of doubtful authenticity
 apprise: to inform
