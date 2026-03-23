@@ -10,7 +10,6 @@ articulate: able to speak clearly
 astute: clever, intelligent
 bellicose: warlike
 caustic: sarcastically biting
-coerce: to force
 condone: to overlook or forgive
 copious: abundant
 dauntless: fearless
@@ -40,7 +39,6 @@ irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
 luminous: bright
-maverick: an independent-minded person
 mundane: ordinary
 neophyte: a beginner
 nonchalant: unconcerned
@@ -180,7 +178,6 @@ recondite: little known
 refractory: stubborn
 replete: filled
 saturate: to soak thoroughly
-savor: to enjoy
 secrete: to produce and discharge
 shard: piece of broken material
 subpoena: writ to attend court
