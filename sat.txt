@@ -27,7 +27,6 @@ emulate: to imitate
 esoteric: understood by few
 extol: to praise
 fortuitous: lucky
-frivolous: unimportant
 frugal: thrifty
 guile: deceit
 hackneyed: overused
@@ -102,7 +101,6 @@ vestige: a trace
 vex: to annoy
 vital: essential
 vivacious: lively
-voluminous: large
 voracious: very hungry
 wane: to decrease
 wax: to increase
@@ -156,7 +154,6 @@ implicit: implied
 indigence: extreme poverty
 indolent: lazy
 inherent: existing as permanent attribute
-insinuate: to suggest indirectly
 insipid: lacking flavor
 intractable: hard to control
 intransigent: unwilling to change views
