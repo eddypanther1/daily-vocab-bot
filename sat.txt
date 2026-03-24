@@ -44,7 +44,6 @@ nonchalant: unconcerned
 obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
-omnipotent: all-powerful
 ostracize: to exclude
 panacea: a cure-all
 paradigm: a model or example
@@ -71,7 +70,6 @@ resilient: able to recover
 respite: a break
 reticent: silent
 rouse: to wake up
-salient: significant
 sanction: to approve
 scanty: insufficient
 scrutinize: to examine closely
@@ -119,7 +117,6 @@ blight: a thing that damages
 burgeon: to grow rapidly
 burnish: to polish
 cajole: to persuade by coaxing
-coagulate: change to solid
 coda: concluding passage
 compendium: collection of detailed information
 complaisant: willing to please
