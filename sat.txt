@@ -55,7 +55,6 @@ poignant: emotionally moving
 pragmatic: practical
 precarious: dangerous
 pretentious: showy
-prevalent: widespread
 profane: disrespectful
 propensity: a tendency
 propitious: favorable
@@ -120,7 +119,6 @@ cajole: to persuade by coaxing
 coda: concluding passage
 compendium: collection of detailed information
 complaisant: willing to please
-confound: to cause surprise or confusion
 contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
@@ -133,7 +131,6 @@ discrete: individually separate
 disjointed: lacking connection
 dismiss: to treat as unworthy
 disparate: essentially different
-dupe: to deceive
 efficacy: effectiveness
 elicit: to evoke
 facilitate: to make easier
