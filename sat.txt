@@ -30,7 +30,6 @@ fortuitous: lucky
 frugal: thrifty
 guile: deceit
 hackneyed: overused
-idiosyncrasy: personal peculiarity
 imminent: about to happen
 impetuous: impulsive
 inane: silly
@@ -70,7 +69,6 @@ respite: a break
 reticent: silent
 rouse: to wake up
 sanction: to approve
-scanty: insufficient
 scrutinize: to examine closely
 sedentary: sitting a lot
 servile: overly submissive
@@ -165,7 +163,6 @@ problematic: constituting a problem
 propitiate: to win favor
 proscribe: to forbid
 pungent: sharp taste or smell
-recondite: little known
 refractory: stubborn
 replete: filled
 saturate: to soak thoroughly
