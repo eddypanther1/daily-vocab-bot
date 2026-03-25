@@ -11,7 +11,6 @@ astute: clever, intelligent
 bellicose: warlike
 caustic: sarcastically biting
 condone: to overlook or forgive
-copious: abundant
 dauntless: fearless
 demure: shy
 deride: to mock
@@ -96,7 +95,6 @@ vestige: a trace
 vex: to annoy
 vital: essential
 vivacious: lively
-voracious: very hungry
 wane: to decrease
 wax: to increase
 whimsical: playful
@@ -139,7 +137,6 @@ forestall: to prevent by advance action
 frugality: thriftiness
 germane: relevant
 goad: to provoke
-idolatry: worship of idols
 impermeable: not allowing fluid through
 imperturbable: calm
 implicit: implied
