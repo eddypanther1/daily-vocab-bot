@@ -26,7 +26,6 @@ esoteric: understood by few
 extol: to praise
 fortuitous: lucky
 frugal: thrifty
-guile: deceit
 hackneyed: overused
 imminent: about to happen
 impetuous: impulsive
@@ -41,7 +40,6 @@ nonchalant: unconcerned
 obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
-ostracize: to exclude
 panacea: a cure-all
 paradigm: a model or example
 pariah: an outcast
@@ -143,7 +141,6 @@ inherent: existing as permanent attribute
 insipid: lacking flavor
 intractable: hard to control
 intransigent: unwilling to change views
-inured: accustomed to unpleasantness
 lassitude: lack of energy
 malinger: to feign illness
 misanthrope: hater of humankind
