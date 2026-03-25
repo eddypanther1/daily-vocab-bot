@@ -10,7 +10,6 @@ articulate: able to speak clearly
 astute: clever, intelligent
 bellicose: warlike
 caustic: sarcastically biting
-condone: to overlook or forgive
 dauntless: fearless
 demure: shy
 deride: to mock
@@ -72,7 +71,6 @@ scrutinize: to examine closely
 sedentary: sitting a lot
 servile: overly submissive
 stigma: a mark of shame
-stolid: showing no emotion
 subtle: not obvious
 surfeit: an excess
 sycophant: a flatterer
@@ -126,7 +124,6 @@ disabuse: to persuade someone belief is mistaken
 discrete: individually separate
 disjointed: lacking connection
 dismiss: to treat as unworthy
-disparate: essentially different
 efficacy: effectiveness
 elicit: to evoke
 facilitate: to make easier
