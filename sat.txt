@@ -24,7 +24,6 @@ emulate: to imitate
 esoteric: understood by few
 extol: to praise
 fortuitous: lucky
-frugal: thrifty
 hackneyed: overused
 imminent: about to happen
 impetuous: impulsive
@@ -134,7 +133,6 @@ impermeable: not allowing fluid through
 imperturbable: calm
 implicit: implied
 indigence: extreme poverty
-indolent: lazy
 inherent: existing as permanent attribute
 insipid: lacking flavor
 intractable: hard to control
@@ -144,7 +142,6 @@ malinger: to feign illness
 morose: sullen
 opprobrium: harsh criticism
 paragon: perfect example
-penury: extreme poverty
 plasticity: easily shaped
 prevaricate: to speak evasively
 problematic: constituting a problem
