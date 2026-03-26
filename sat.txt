@@ -24,7 +24,6 @@ emulate: to imitate
 esoteric: understood by few
 extol: to praise
 fortuitous: lucky
-hackneyed: overused
 imminent: about to happen
 impetuous: impulsive
 inane: silly
@@ -102,7 +101,6 @@ asylum: protection granted by a state
 belie: to contradict
 belligerent: hostile and aggressive
 blight: a thing that damages
-burgeon: to grow rapidly
 burnish: to polish
 cajole: to persuade by coaxing
 coda: concluding passage
@@ -163,7 +161,6 @@ unwitting: not aware
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 castigation: punishment; severe criticism
-compliant: yielding
 decorum: propriety; good taste
 enhance: to increase; improve
 futile: useless; hopeless
