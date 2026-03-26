@@ -3,7 +3,6 @@ alacrity: eagerness
 ambivalent: having mixed feelings
 anachronistic: out of chronological order
 antithesis: the direct opposite
-apathy: lack of interest
 apex: highest point
 apprehensive: fearful or anxious
 articulate: able to speak clearly
@@ -41,7 +40,6 @@ obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
 panacea: a cure-all
-paradigm: a model or example
 pariah: an outcast
 paucity: scarcity
 peruse: to read carefully
@@ -143,7 +141,6 @@ intractable: hard to control
 intransigent: unwilling to change views
 lassitude: lack of energy
 malinger: to feign illness
-misanthrope: hater of humankind
 morose: sullen
 opprobrium: harsh criticism
 paragon: perfect example
