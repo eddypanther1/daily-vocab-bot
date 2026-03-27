@@ -41,7 +41,6 @@ peruse: to read carefully
 plausible: believable
 poignant: emotionally moving
 pragmatic: practical
-precarious: dangerous
 pretentious: showy
 profane: disrespectful
 propensity: a tendency
@@ -85,7 +84,6 @@ vex: to annoy
 vital: essential
 vivacious: lively
 wane: to decrease
-wax: to increase
 wrath: anger
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
@@ -148,7 +146,6 @@ secrete: to produce and discharge
 shard: piece of broken material
 subpoena: writ to attend court
 tangential: diverging
-transgression: offense
 transparent: allowing light through
 trenchant: vigorous expression
 truism: obvious statement
