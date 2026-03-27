@@ -16,7 +16,6 @@ despot: a dictator
 disdain: lack of respect
 disparage: to belittle
 diverge: to separate
-dogmatic: strongly opinionated
 eclectic: from various sources
 egregious: outstandingly bad
 elucidate: to explain clearly
@@ -105,7 +104,6 @@ burnish: to polish
 cajole: to persuade by coaxing
 coda: concluding passage
 compendium: collection of detailed information
-complaisant: willing to please
 contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
@@ -157,7 +155,6 @@ transgression: offense
 transparent: allowing light through
 trenchant: vigorous expression
 truism: obvious statement
-unwitting: not aware
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 castigation: punishment; severe criticism
