@@ -1,5 +1,4 @@
 acumen: keen insight
-alacrity: eagerness
 ambivalent: having mixed feelings
 anachronistic: out of chronological order
 antithesis: the direct opposite
@@ -32,7 +31,6 @@ judicious: wise
 luminous: bright
 mundane: ordinary
 neophyte: a beginner
-nonchalant: unconcerned
 obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
@@ -88,7 +86,6 @@ vital: essential
 vivacious: lively
 wane: to decrease
 wax: to increase
-whimsical: playful
 wrath: anger
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
