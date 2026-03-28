@@ -111,7 +111,6 @@ efficacy: effectiveness
 elicit: to evoke
 facilitate: to make easier
 fatuous: silly and pointless
-flag: to become tired
 flout: to openly disregard
 forestall: to prevent by advance action
 frugality: thriftiness
@@ -123,7 +122,6 @@ implicit: implied
 indigence: extreme poverty
 inherent: existing as permanent attribute
 insipid: lacking flavor
-intractable: hard to control
 intransigent: unwilling to change views
 lassitude: lack of energy
 malinger: to feign illness
@@ -149,7 +147,6 @@ truism: obvious statement
 wheedle: to persuade by flattery
 whet: to sharpen or stimulate
 castigation: punishment; severe criticism
-decorum: propriety; good taste
 enhance: to increase; improve
 futile: useless; hopeless
 log: record of a voyage
