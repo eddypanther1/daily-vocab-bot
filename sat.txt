@@ -16,7 +16,6 @@ disparage: to belittle
 diverge: to separate
 eclectic: from various sources
 egregious: outstandingly bad
-elucidate: to explain clearly
 emulate: to imitate
 esoteric: understood by few
 extol: to praise
@@ -37,7 +36,6 @@ panacea: a cure-all
 pariah: an outcast
 paucity: scarcity
 peruse: to read carefully
-plausible: believable
 poignant: emotionally moving
 pragmatic: practical
 pretentious: showy
@@ -111,7 +109,6 @@ efficacy: effectiveness
 elicit: to evoke
 facilitate: to make easier
 fatuous: silly and pointless
-flout: to openly disregard
 forestall: to prevent by advance action
 frugality: thriftiness
 germane: relevant
