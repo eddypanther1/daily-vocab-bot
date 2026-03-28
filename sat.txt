@@ -11,7 +11,6 @@ caustic: sarcastically biting
 dauntless: fearless
 demure: shy
 deride: to mock
-despot: a dictator
 disdain: lack of respect
 disparage: to belittle
 diverge: to separate
@@ -57,7 +56,6 @@ respite: a break
 reticent: silent
 rouse: to wake up
 sanction: to approve
-scrutinize: to examine closely
 sedentary: sitting a lot
 servile: overly submissive
 stigma: a mark of shame
@@ -83,7 +81,6 @@ vestige: a trace
 vex: to annoy
 vital: essential
 vivacious: lively
-wane: to decrease
 wrath: anger
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
