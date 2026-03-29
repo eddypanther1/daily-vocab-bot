@@ -37,7 +37,6 @@ pariah: an outcast
 paucity: scarcity
 peruse: to read carefully
 poignant: emotionally moving
-pragmatic: practical
 pretentious: showy
 profane: disrespectful
 propensity: a tendency
@@ -47,7 +46,6 @@ quell: to suppress
 rash: impulsive
 recluse: one who lives alone
 reconcile: to make peace
-rectify: to correct
 renounce: to give up
 resilient: able to recover
 respite: a break
@@ -150,4 +148,3 @@ log: record of a voyage
 malingerer: one who feigns illness
 skeptic: doubter
 spectrum: colored band
-viable: practical
