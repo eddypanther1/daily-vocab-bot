@@ -13,7 +13,6 @@ demure: shy
 deride: to mock
 disdain: lack of respect
 disparage: to belittle
-diverge: to separate
 eclectic: from various sources
 egregious: outstandingly bad
 emulate: to imitate
@@ -59,7 +58,6 @@ subtle: not obvious
 surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
-temerity: boldness
 tenuous: weak
 timorous: fearful
 torrid: very hot
@@ -139,7 +137,6 @@ tangential: diverging
 transparent: allowing light through
 trenchant: vigorous expression
 wheedle: to persuade by flattery
-whet: to sharpen or stimulate
 castigation: punishment; severe criticism
 enhance: to increase; improve
 log: record of a voyage
