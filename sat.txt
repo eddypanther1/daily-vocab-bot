@@ -1,6 +1,5 @@
 ambivalent: having mixed feelings
 anachronistic: out of chronological order
-antithesis: the direct opposite
 apex: highest point
 apprehensive: fearful or anxious
 articulate: able to speak clearly
@@ -98,7 +97,6 @@ discrete: individually separate
 disjointed: lacking connection
 efficacy: effectiveness
 elicit: to evoke
-facilitate: to make easier
 fatuous: silly and pointless
 forestall: to prevent by advance action
 frugality: thriftiness
@@ -128,7 +126,6 @@ secrete: to produce and discharge
 shard: piece of broken material
 subpoena: writ to attend court
 tangential: diverging
-transparent: allowing light through
 trenchant: vigorous expression
 wheedle: to persuade by flattery
 castigation: punishment; severe criticism
