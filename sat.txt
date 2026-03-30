@@ -1,4 +1,3 @@
-acumen: keen insight
 ambivalent: having mixed feelings
 anachronistic: out of chronological order
 antithesis: the direct opposite
@@ -63,7 +62,6 @@ timorous: fearful
 torrid: very hot
 trite: overused
 truncate: to shorten
-ubiquitous: found everywhere
 upbraid: to scold
 usurp: to seize power
 utilitarian: useful
@@ -96,7 +94,6 @@ craven: cowardly
 deference: humble submission
 denigrate: to criticize unfairly
 dichotomy: contrast between two things
-digression: temporary departure from subject
 disabuse: to persuade someone belief is mistaken
 discrete: individually separate
 disjointed: lacking connection
