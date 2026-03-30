@@ -27,7 +27,6 @@ judicious: wise
 luminous: bright
 mundane: ordinary
 neophyte: a beginner
-obsolete: no longer in use
 obtrusive: pushing oneself forward
 ominous: threatening
 panacea: a cure-all
@@ -97,7 +96,6 @@ dichotomy: contrast between two things
 disabuse: to persuade someone belief is mistaken
 discrete: individually separate
 disjointed: lacking connection
-dismiss: to treat as unworthy
 efficacy: effectiveness
 elicit: to evoke
 facilitate: to make easier
@@ -126,7 +124,6 @@ proscribe: to forbid
 pungent: sharp taste or smell
 refractory: stubborn
 replete: filled
-saturate: to soak thoroughly
 secrete: to produce and discharge
 shard: piece of broken material
 subpoena: writ to attend court
