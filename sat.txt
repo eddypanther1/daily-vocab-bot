@@ -10,13 +10,11 @@ dauntless: fearless
 demure: shy
 deride: to mock
 disdain: lack of respect
-disparage: to belittle
 eclectic: from various sources
 egregious: outstandingly bad
 emulate: to imitate
 esoteric: understood by few
 extol: to praise
-fortuitous: lucky
 imminent: about to happen
 impetuous: impulsive
 inane: silly
@@ -127,6 +125,5 @@ trenchant: vigorous expression
 wheedle: to persuade by flattery
 castigation: punishment; severe criticism
 enhance: to increase; improve
-log: record of a voyage
 malingerer: one who feigns illness
 spectrum: colored band
