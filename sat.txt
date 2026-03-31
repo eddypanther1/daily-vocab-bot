@@ -28,7 +28,6 @@ mundane: ordinary
 neophyte: a beginner
 obtrusive: pushing oneself forward
 ominous: threatening
-panacea: a cure-all
 pariah: an outcast
 paucity: scarcity
 peruse: to read carefully
@@ -43,7 +42,6 @@ rash: impulsive
 recluse: one who lives alone
 reconcile: to make peace
 renounce: to give up
-resilient: able to recover
 respite: a break
 reticent: silent
 rouse: to wake up
@@ -90,7 +88,6 @@ contentious: causing argument
 conventional: based on what is generally done
 craven: cowardly
 deference: humble submission
-denigrate: to criticize unfairly
 dichotomy: contrast between two things
 disabuse: to persuade someone belief is mistaken
 discrete: individually separate
