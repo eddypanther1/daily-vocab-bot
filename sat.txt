@@ -95,8 +95,6 @@ elicit: to evoke
 fatuous: silly and pointless
 forestall: to prevent by advance action
 frugality: thriftiness
-germane: relevant
-goad: to provoke
 impermeable: not allowing fluid through
 imperturbable: calm
 implicit: implied
@@ -109,7 +107,6 @@ malinger: to feign illness
 morose: sullen
 opprobrium: harsh criticism
 paragon: perfect example
-plasticity: easily shaped
 prevaricate: to speak evasively
 problematic: constituting a problem
 propitiate: to win favor
