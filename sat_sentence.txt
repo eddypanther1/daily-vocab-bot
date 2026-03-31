@@ -1,10 +1,132 @@
-1. serendipity: the occurrence of events by chance in a happy or beneficial way: "Finding that old photograph felt like a serendipity, sparking unexpected memories."
-2. epiphany: a moment of sudden revelation or insight: "She had an epiphany about her career during the quiet moments of her morning walk."
-3. eloquent: fluent or persuasive in speaking or writing: "His eloquent speech moved the audience to tears."
-4. resilient: able to withstand or recover quickly from difficult conditions: "Children are often resilient, bouncing back from setbacks with remarkable tenacity."
-5. quintessential: representing the most perfect or typical example of a quality or class: "She is the quintessential artist, pouring her heart into each canvas."
-6. ephemeral: lasting for a very short time: "The beauty of the sunset was ephemeral, fading within minutes."
-7. pragmatic: dealing with things sensibly and realistically: "Taking a pragmatic approach, he focused on solutions rather than problems."
-8. eclectic: deriving ideas, style, or taste from a broad and diverse range of sources: "Her eclectic taste in music included everything from classical to punk rock."
-9. idyllic: extremely happy, peaceful, or picturesque: "They enjoyed an idyllic weekend away in the countryside."
-10. benevolent: well-meaning and kindly: "The benevolent donor contributed generously to the charity."
+1|abate: to lessen; reduce: The storm suddenly abated.
+2|abdicate: to step down from a position of power; to relinquish one's throne: The king decided to abdicate in favor of his son.
+3|aberration: something that differs from the norm: His outburst was an aberration from his usual calm demeanor.
+4|abhor: to hate; to detest: She abhors cruelty to animals.
+5|abstain: to choose not to do something: I will abstain from voting on this issue.
+6|acclimate: to adapt to a new climate or environment: We need time to acclimate to the new surroundings.
+7|acquiesce: to agree or express agreement: She acquiesced to his request without protest.
+8|acrimonious: angry and bitter: The debate turned acrimonious as they exchanged insults.
+9|alacrity: eagerness; enthusiasm: She accepted the invitation with alacrity.
+10|alleviate: to make something less severe: The medication helped to alleviate the pain.
+11|ambiguous: having more than one possible meaning: The question was too ambiguous to answer.
+12|ameliorate: to improve; make better: Steps are being taken to ameliorate the situation.
+13|amenable: willing to respond; agreeable: They were amenable to the changes proposed.
+14|anachronism: something that is out of place in time: The movie was filled with anachronisms that threw off its authenticity.
+15|anecdote: a brief story used to illustrate a point: He shared a humorous anecdote during the meeting.
+16|antagonist: one who opposes or competes: The protagonist struggled against his antagonist.
+17|antipathy: a strong feeling of dislike: There was a mutual antipathy between the two rivals.
+18|apathy: lack of interest or concern: Voter apathy is a serious issue in elections.
+19|apotheosis: elevation to divine status; the perfect example: The athlete's performance was the apotheosis of excellence.
+20|appease: to calm; to pacify: The government tried to appease the protestors with new policies.
+21|apprehensive: anxious; fearful: She was apprehensive about walking home alone at night.
+22|arduous: difficult; requiring a lot of effort: Climbing the mountain was an arduous journey.
+23|articulate: able to express thoughts clearly: He is an articulate speaker, and his ideas are compelling.
+24|assiduous: showing great care and perseverance: She was assiduous in her studies, earning top marks.
+25|asylum: a place of protection or refuge: They sought asylum from the war-torn country.
+26|atone: to make amends: He wanted to atone for his past mistakes.
+27|audacious: bold; daring: The audacious plan surprised everyone.
+28|auspicious: favorable; promising: Their first meeting was an auspicious start to the project.
+29|autonomous: independent; self-governing: The region became autonomous after years of conflict.
+30|avidity: enthusiasm; eagerness: The student's avidity for knowledge was impressive.
+31|banal: boring; unoriginal: The story was so banal that I lost interest quickly.
+32|belligerent: hostile; aggressive: The belligerent nations refused to negotiate.
+33|benevolent: kindly; charitable: Her benevolent nature made her popular in the community.
+34|benign: harmless; gentle: The tumor was found to be benign and not cancerous.
+35|bias: a particular preference or point of view: His bias was evident in his writing.
+36|blatant: obvious; unmistakable: The blatant disregard for the rules was shocking.
+37|bolster: to support; strengthen: The news bolstered his confidence.
+38|bombastic: pompous; overly verbose: His bombastic speech failed to impress anyone.
+39|braggart: someone who boasts: The braggart's stories were hard to believe.
+40|candid: honest; frank: Her candid response surprised everyone in the room.
+41|capricious: prone to unpredictable changes: The weather in spring can be quite capricious.
+42|censorship: suppression of speech or publication: The government imposed censorship on the press.
+43|circuitous: roundabout; indirect: They took a circuitous route to avoid traffic.
+44|clamor: loud noise or shouting: The clamor of the crowd was deafening.
+45|clarity: clearness; lucidity: The clarity of his argument won him the debate.
+46|coalesce: to come together; unite: The different groups coalesced into one strong community.
+47|cognitive: related to thinking or reasoning: Cognitive development is crucial in childhood.
+48|complacent: self-satisfied; smug: He was complacent after his success and stopped working hard.
+49|complacency: a feeling of self-satisfaction: Their complacency led to a lack of innovation.
+50|condescend: to lower oneself to a less formal level: She condescended to speak with the students.
+51|conducive: making a certain situation likely or possible: The quiet atmosphere is conducive to studying.
+52|connive: to cooperate secretly; to conspire: They connived to cheat on the test.
+53|connoisseur: an expert judge in matters of taste: He is a connoisseur of fine wine.
+54|construe: to interpret or understand: How do you construe his actions?
+55|copious: abundant; plentiful: She took copious notes during the lecture.
+56|corroborate: to confirm; support: Can anyone corroborate his alibi?
+57|cynical: distrustful of human sincerity: Her cynical outlook made her skeptical of others' motives.
+58|dearth: a lack; scarcity: There was a dearth of evidence to support the claim.
+59|debunk: to expose falseness: They aim to debunk popular myths.
+60|deference: respect; consideration: He showed deference to the elderly in the room.
+61|defiant: boldly resistant or challenging: The defiant child refused to apologize.
+62|deleterious: harmful; damaging: The chemicals had deleterious effects on the environment.
+63|demure: modest; reserved: Her demure demeanor was refreshing in the loud crowd.
+64|denizen: inhabitant or occupant: The denizens of the city were friendly and welcoming.
+65|deprecate: to express disapproval; belittle: They deprecate his achievements instead of celebrating them.
+66|deride: to ridicule; mock: They derided his efforts to improve the situation.
+67|despot: an absolute ruler; tyrant: The despot ruled with an iron fist.
+68|dichotomy: a division into two parts: The dichotomy between good and evil is a common theme.
+69|diligent: hardworking; industrious: She was diligent in completing her assignments on time.
+70|disparate: fundamentally distinct or different: They come from disparate backgrounds, yet have much in common.
+71|disseminate: to spread widely: The organization works to disseminate information about health.
+72|dissent: to express disagreement: The dissent among the members was evident.
+73|dissonance: lack of harmony; disagreement: There was a dissonance between their views.
+74|dogmatic: unyielding; inflexible in opinions: His dogmatic approach alienated others.
+75|dubious: doubtful; uncertain: His dubious claims raised suspicion.
+76|eclectic: composed of elements from various sources: The eclectic décor reflected her diverse tastes.
+77|efface: to erase; to rub out: Time will efface the memories of that day.
+78|egregious: remarkably bad; outrageous: The scandal was egregious and affected many.
+79|elated: filled with joy; ecstatic: She was elated by the news of her promotion.
+80|elicit: to draw out; bring forth: The teacher tried to elicit responses from the students.
+81|emulate: to imitate; copy: She tried to emulate her mentor's success.
+82|enervate: to weaken; exhaust: The long hours of work can enervate even the strongest.
+83|engender: to produce; cause: The policy changes engendered much debate.
+84|enigma: a mystery; puzzling situation: His motivations remain an enigma.
+85|ephemeral: lasting a very short time: The beauty of a sunset is often ephemeral.
+86|equanimity: calmness; composure: She faced the challenges with equanimity.
+87|equivocate: to use ambiguous language to deceive: He tended to equivocate when answering questions.
+88|erratic: unpredictable; unstable: His erratic behavior caught everyone off guard.
+89|esoteric: intended for or understood by only a small group: The lecture was filled with esoteric references.
+90|eternal: everlasting; unending: Their love was portrayed as eternal.
+91|exacerbate: to make worse: The lack of rain will exacerbate the drought.
+92|exemplary: serving as a model; outstanding: She has set an exemplary standard for others.
+93|exonerate: to clear from blame: New evidence exonerated him from the charges.
+94|expedite: to speed up the process: They sought to expedite the approval of the project.
+95|extol: to praise highly; laud: She is often extolled for her charitable work.
+96|extraneous: unnecessary; irrelevant: The extraneous information distracted from the main point.
+97|facilitate: to make easier; assist: The guide helped facilitate our journey.
+98|fathom: to understand; comprehend: It was difficult to fathom the depths of his despair.
+99|fluctuate: to vary; change: The stock prices began to fluctuate wildly.
+100|fortuitous: happening by chance; fortunate: The fortuitous meeting led to a brilliant collaboration.
+101|frugal: economical; thrifty: He is known for his frugal lifestyle and saving habits.
+102|garner: to gather; collect: She hopes to garner support for her project.
+103|gregarious: sociable; outgoing: He was a gregarious host who enjoyed entertaining.
+104|guile: deceit; cunning: He used guile to achieve his goals.
+105|harangue: a long, passionate speech: The politician delivered a harangue against his opponents.
+106|hedonist: one who believes pleasure is the highest good: She was a hedonist, always seeking enjoyment.
+107|herald: to announce; proclaim: The changes were heralded as a new era.
+108|homogeneous: of the same kind; alike: The population became more homogeneous over time.
+109|hubris: excessive pride or self-confidence: His hubris led to his downfall.
+110|hypothetical: based on a theory; not real: They discussed a hypothetical situation to analyze the problem.
+111|imminent: about to happen; impending: The storm's arrival was imminent.
+112|immutable: unchanging; not subject to change: Some traditions are considered immutable.
+113|impasse: a deadlock; stalemate: The negotiations reached an impasse.
+114|imperturbable: calm; not easily excited: Her imperturbable demeanor reassured the team.
+115|implacable: incapable of being appeased; relentless: His implacable pursuit of success was evident.
+116|improvise: to compose or perform without preparation: She can improvise beautifully on the piano.
+117|impugn: to attack or challenge as false: He impugned her motives during the debate.
+118|inane: silly; meaningless: The inane comments distracted from the topic.
+119|incredulous: unwilling to believe; skeptical: She gave him an incredulous look.
+120|indomitable: unconquerable; invincible: The team's spirit was indomitable, even in defeat.
+121|ineffable: too great to be expressed in words: The beauty of the landscape was ineffable.
+122|innate: inborn; natural: She had an innate talent for music.
+123|insidious: characterized by stealthy harmful effects: The insidious nature of the disease is concerning.
+124|intrepid: fearless; adventurous: The intrepid explorer traversed the rugged terrain.
+125|inundate: to flood; overwhelm: The school was inundated with applications.
+126|irresolute: uncertain; indecisive: He felt irresolute about his decision.
+127|jubilant: extremely joyful; happy: The crowd was jubilant after the victory.
+128|juxtaposition: the act of placing things side by side: The juxtaposition of colors was striking.
+129|laconic: using few words; concise: His laconic replies left her wanting more.
+130|languid: slow and relaxed; weak: The languid summer days drifted by.
+131|malaise: a general feeling of discomfort or unease: There was a sense of malaise in the country during the crisis.
+132|meticulous: showing great attention to detail; very careful: She was meticulous in her research and preparation.
