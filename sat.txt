@@ -36,7 +36,6 @@ propensity: a tendency
 propitious: favorable
 quaint: charmingly old-fashioned
 quell: to suppress
-rash: impulsive
 recluse: one who lives alone
 reconcile: to make peace
 renounce: to give up
@@ -59,7 +58,6 @@ truncate: to shorten
 upbraid: to scold
 usurp: to seize power
 utilitarian: useful
-vapid: dull
 variegated: varied
 venerate: to respect
 verbose: wordy
@@ -103,7 +101,6 @@ inherent: existing as permanent attribute
 insipid: lacking flavor
 intransigent: unwilling to change views
 lassitude: lack of energy
-malinger: to feign illness
 morose: sullen
 opprobrium: harsh criticism
 paragon: perfect example
