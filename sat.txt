@@ -4,12 +4,10 @@ apex: highest point
 apprehensive: fearful or anxious
 articulate: able to speak clearly
 astute: clever, intelligent
-bellicose: warlike
 caustic: sarcastically biting
 dauntless: fearless
 demure: shy
 deride: to mock
-disdain: lack of respect
 eclectic: from various sources
 egregious: outstandingly bad
 emulate: to imitate
@@ -106,7 +104,6 @@ opprobrium: harsh criticism
 paragon: perfect example
 prevaricate: to speak evasively
 problematic: constituting a problem
-propitiate: to win favor
 proscribe: to forbid
 pungent: sharp taste or smell
 refractory: stubborn
