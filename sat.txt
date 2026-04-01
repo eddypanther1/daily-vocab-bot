@@ -26,7 +26,6 @@ obtrusive: pushing oneself forward
 ominous: threatening
 pariah: an outcast
 paucity: scarcity
-peruse: to read carefully
 poignant: emotionally moving
 pretentious: showy
 profane: disrespectful
@@ -45,7 +44,6 @@ sedentary: sitting a lot
 servile: overly submissive
 stigma: a mark of shame
 subtle: not obvious
-surfeit: an excess
 sycophant: a flatterer
 taciturn: silent
 tenuous: weak
@@ -75,7 +73,6 @@ belie: to contradict
 belligerent: hostile and aggressive
 blight: a thing that damages
 burnish: to polish
-cajole: to persuade by coaxing
 coda: concluding passage
 compendium: collection of detailed information
 contentious: causing argument
