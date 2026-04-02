@@ -54,7 +54,6 @@ upbraid: to scold
 usurp: to seize power
 utilitarian: useful
 variegated: varied
-venerate: to respect
 verbose: wordy
 vestige: a trace
 vex: to annoy
@@ -86,12 +85,10 @@ elicit: to evoke
 fatuous: silly and pointless
 forestall: to prevent by advance action
 frugality: thriftiness
-impermeable: not allowing fluid through
 imperturbable: calm
 implicit: implied
 indigence: extreme poverty
 inherent: existing as permanent attribute
-insipid: lacking flavor
 intransigent: unwilling to change views
 lassitude: lack of energy
 morose: sullen
