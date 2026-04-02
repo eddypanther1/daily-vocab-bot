@@ -13,7 +13,6 @@ egregious: outstandingly bad
 emulate: to imitate
 esoteric: understood by few
 extol: to praise
-imminent: about to happen
 impetuous: impulsive
 inane: silly
 irreverent: disrespectful
@@ -76,7 +75,6 @@ burnish: to polish
 coda: concluding passage
 compendium: collection of detailed information
 contentious: causing argument
-conventional: based on what is generally done
 craven: cowardly
 deference: humble submission
 dichotomy: contrast between two things
@@ -98,7 +96,6 @@ intransigent: unwilling to change views
 lassitude: lack of energy
 morose: sullen
 opprobrium: harsh criticism
-paragon: perfect example
 prevaricate: to speak evasively
 problematic: constituting a problem
 proscribe: to forbid
