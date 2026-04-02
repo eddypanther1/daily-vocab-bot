@@ -45,7 +45,6 @@ stigma: a mark of shame
 subtle: not obvious
 sycophant: a flatterer
 taciturn: silent
-tenuous: weak
 timorous: fearful
 torrid: very hot
 trite: overused
@@ -59,7 +58,6 @@ vestige: a trace
 vex: to annoy
 vital: essential
 vivacious: lively
-wrath: anger
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
@@ -86,7 +84,6 @@ fatuous: silly and pointless
 forestall: to prevent by advance action
 frugality: thriftiness
 imperturbable: calm
-implicit: implied
 indigence: extreme poverty
 inherent: existing as permanent attribute
 intransigent: unwilling to change views
