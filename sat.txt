@@ -15,7 +15,6 @@ esoteric: understood by few
 extol: to praise
 impetuous: impulsive
 inane: silly
-irreverent: disrespectful
 jubilant: extremely joyful
 judicious: wise
 luminous: bright
@@ -61,7 +60,6 @@ vivacious: lively
 acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
-amalgamate: to combine or unite
 apocryphal: of doubtful authenticity
 apprise: to inform
 asylum: protection granted by a state
@@ -103,6 +101,5 @@ tangential: diverging
 trenchant: vigorous expression
 wheedle: to persuade by flattery
 castigation: punishment; severe criticism
-enhance: to increase; improve
 malingerer: one who feigns illness
 spectrum: colored band
