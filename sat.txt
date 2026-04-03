@@ -46,7 +46,6 @@ sycophant: a flatterer
 taciturn: silent
 timorous: fearful
 torrid: very hot
-trite: overused
 truncate: to shorten
 upbraid: to scold
 usurp: to seize power
@@ -73,14 +72,12 @@ contentious: causing argument
 craven: cowardly
 deference: humble submission
 dichotomy: contrast between two things
-disabuse: to persuade someone belief is mistaken
 discrete: individually separate
 disjointed: lacking connection
 efficacy: effectiveness
 elicit: to evoke
 fatuous: silly and pointless
 forestall: to prevent by advance action
-frugality: thriftiness
 imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
