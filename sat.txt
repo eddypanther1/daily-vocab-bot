@@ -39,11 +39,9 @@ rouse: to wake up
 sanction: to approve
 sedentary: sitting a lot
 servile: overly submissive
-stigma: a mark of shame
 subtle: not obvious
 sycophant: a flatterer
 taciturn: silent
-timorous: fearful
 torrid: very hot
 truncate: to shorten
 upbraid: to scold
@@ -81,7 +79,6 @@ imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
 intransigent: unwilling to change views
-lassitude: lack of energy
 opprobrium: harsh criticism
 prevaricate: to speak evasively
 problematic: constituting a problem
