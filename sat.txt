@@ -45,12 +45,9 @@ taciturn: silent
 torrid: very hot
 truncate: to shorten
 upbraid: to scold
-usurp: to seize power
 utilitarian: useful
-variegated: varied
 verbose: wordy
 vestige: a trace
-vex: to annoy
 vital: essential
 vivacious: lively
 acerbic: sharp and forthright
