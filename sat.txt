@@ -1,7 +1,6 @@
 ambivalent: having mixed feelings
 anachronistic: out of chronological order
 apex: highest point
-apprehensive: fearful or anxious
 articulate: able to speak clearly
 caustic: sarcastically biting
 dauntless: fearless
@@ -81,9 +80,7 @@ prevaricate: to speak evasively
 problematic: constituting a problem
 proscribe: to forbid
 pungent: sharp taste or smell
-refractory: stubborn
 replete: filled
-secrete: to produce and discharge
 shard: piece of broken material
 tangential: diverging
 trenchant: vigorous expression
