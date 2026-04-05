@@ -32,7 +32,6 @@ quell: to suppress
 recluse: one who lives alone
 reconcile: to make peace
 renounce: to give up
-respite: a break
 reticent: silent
 rouse: to wake up
 sanction: to approve
@@ -58,7 +57,6 @@ asylum: protection granted by a state
 belie: to contradict
 belligerent: hostile and aggressive
 blight: a thing that damages
-burnish: to polish
 coda: concluding passage
 compendium: collection of detailed information
 contentious: causing argument
@@ -74,7 +72,6 @@ forestall: to prevent by advance action
 imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
-intransigent: unwilling to change views
 opprobrium: harsh criticism
 prevaricate: to speak evasively
 problematic: constituting a problem
