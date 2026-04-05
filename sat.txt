@@ -1,7 +1,6 @@
 ambivalent: having mixed feelings
 anachronistic: out of chronological order
 apex: highest point
-articulate: able to speak clearly
 caustic: sarcastically biting
 dauntless: fearless
 demure: shy
@@ -11,7 +10,6 @@ egregious: outstandingly bad
 emulate: to imitate
 esoteric: understood by few
 extol: to praise
-impetuous: impulsive
 inane: silly
 jubilant: extremely joyful
 judicious: wise
@@ -55,7 +53,6 @@ asylum: protection granted by a state
 belie: to contradict
 belligerent: hostile and aggressive
 blight: a thing that damages
-compendium: collection of detailed information
 contentious: causing argument
 craven: cowardly
 deference: humble submission
