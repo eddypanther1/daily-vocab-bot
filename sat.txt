@@ -20,7 +20,6 @@ mundane: ordinary
 neophyte: a beginner
 obtrusive: pushing oneself forward
 ominous: threatening
-pariah: an outcast
 paucity: scarcity
 poignant: emotionally moving
 pretentious: showy
@@ -38,7 +37,6 @@ sanction: to approve
 sedentary: sitting a lot
 servile: overly submissive
 subtle: not obvious
-sycophant: a flatterer
 taciturn: silent
 torrid: very hot
 truncate: to shorten
@@ -57,7 +55,6 @@ asylum: protection granted by a state
 belie: to contradict
 belligerent: hostile and aggressive
 blight: a thing that damages
-coda: concluding passage
 compendium: collection of detailed information
 contentious: causing argument
 craven: cowardly
