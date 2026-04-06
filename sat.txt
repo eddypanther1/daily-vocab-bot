@@ -39,7 +39,6 @@ torrid: very hot
 truncate: to shorten
 upbraid: to scold
 utilitarian: useful
-verbose: wordy
 vestige: a trace
 vital: essential
 vivacious: lively
@@ -50,7 +49,6 @@ apocryphal: of doubtful authenticity
 asylum: protection granted by a state
 belligerent: hostile and aggressive
 blight: a thing that damages
-contentious: causing argument
 craven: cowardly
 deference: humble submission
 dichotomy: contrast between two things
@@ -59,7 +57,6 @@ disjointed: lacking connection
 efficacy: effectiveness
 elicit: to evoke
 fatuous: silly and pointless
-forestall: to prevent by advance action
 imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
