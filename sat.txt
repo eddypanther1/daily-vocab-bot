@@ -34,7 +34,6 @@ rouse: to wake up
 sanction: to approve
 sedentary: sitting a lot
 servile: overly submissive
-subtle: not obvious
 taciturn: silent
 torrid: very hot
 truncate: to shorten
@@ -48,9 +47,7 @@ acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
 apocryphal: of doubtful authenticity
-apprise: to inform
 asylum: protection granted by a state
-belie: to contradict
 belligerent: hostile and aggressive
 blight: a thing that damages
 contentious: causing argument
