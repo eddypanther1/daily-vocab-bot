@@ -1,6 +1,5 @@
 ambivalent: having mixed feelings
 anachronistic: out of chronological order
-apex: highest point
 caustic: sarcastically biting
 dauntless: fearless
 demure: shy
@@ -33,13 +32,11 @@ reticent: silent
 rouse: to wake up
 sanction: to approve
 sedentary: sitting a lot
-servile: overly submissive
 taciturn: silent
 torrid: very hot
 truncate: to shorten
 upbraid: to scold
 utilitarian: useful
-vestige: a trace
 vital: essential
 vivacious: lively
 acerbic: sharp and forthright
