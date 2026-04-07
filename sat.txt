@@ -11,7 +11,6 @@ esoteric: understood by few
 extol: to praise
 inane: silly
 jubilant: extremely joyful
-judicious: wise
 luminous: bright
 mundane: ordinary
 neophyte: a beginner
@@ -20,7 +19,6 @@ ominous: threatening
 paucity: scarcity
 poignant: emotionally moving
 pretentious: showy
-profane: disrespectful
 propensity: a tendency
 propitious: favorable
 quaint: charmingly old-fashioned
@@ -44,7 +42,6 @@ acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
 apocryphal: of doubtful authenticity
 asylum: protection granted by a state
-belligerent: hostile and aggressive
 blight: a thing that damages
 craven: cowardly
 deference: humble submission
