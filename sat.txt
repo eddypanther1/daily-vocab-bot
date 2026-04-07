@@ -2,7 +2,6 @@ ambivalent: having mixed feelings
 anachronistic: out of chronological order
 caustic: sarcastically biting
 dauntless: fearless
-demure: shy
 deride: to mock
 eclectic: from various sources
 egregious: outstandingly bad
@@ -45,12 +44,10 @@ asylum: protection granted by a state
 blight: a thing that damages
 craven: cowardly
 deference: humble submission
-dichotomy: contrast between two things
 discrete: individually separate
 disjointed: lacking connection
 efficacy: effectiveness
 elicit: to evoke
-fatuous: silly and pointless
 imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
