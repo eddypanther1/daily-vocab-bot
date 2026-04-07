@@ -1,7 +1,5 @@
-ambivalent: having mixed feelings
 anachronistic: out of chronological order
 caustic: sarcastically biting
-dauntless: fearless
 deride: to mock
 eclectic: from various sources
 egregious: outstandingly bad
@@ -27,7 +25,6 @@ reconcile: to make peace
 renounce: to give up
 reticent: silent
 rouse: to wake up
-sanction: to approve
 sedentary: sitting a lot
 taciturn: silent
 torrid: very hot
