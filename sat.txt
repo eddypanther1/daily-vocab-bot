@@ -10,8 +10,6 @@ jubilant: extremely joyful
 luminous: bright
 mundane: ordinary
 neophyte: a beginner
-obtrusive: pushing oneself forward
-ominous: threatening
 paucity: scarcity
 poignant: emotionally moving
 pretentious: showy
@@ -25,7 +23,6 @@ renounce: to give up
 reticent: silent
 rouse: to wake up
 sedentary: sitting a lot
-taciturn: silent
 torrid: very hot
 truncate: to shorten
 upbraid: to scold
