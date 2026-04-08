@@ -3,7 +3,6 @@ caustic: sarcastically biting
 eclectic: from various sources
 egregious: outstandingly bad
 emulate: to imitate
-esoteric: understood by few
 extol: to praise
 inane: silly
 jubilant: extremely joyful
@@ -17,7 +16,6 @@ propensity: a tendency
 propitious: favorable
 quaint: charmingly old-fashioned
 quell: to suppress
-recluse: one who lives alone
 reconcile: to make peace
 renounce: to give up
 reticent: silent
@@ -37,7 +35,6 @@ blight: a thing that damages
 craven: cowardly
 deference: humble submission
 discrete: individually separate
-disjointed: lacking connection
 efficacy: effectiveness
 elicit: to evoke
 imperturbable: calm
