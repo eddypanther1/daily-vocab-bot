@@ -1,6 +1,5 @@
 anachronistic: out of chronological order
 caustic: sarcastically biting
-deride: to mock
 eclectic: from various sources
 egregious: outstandingly bad
 emulate: to imitate
@@ -33,7 +32,6 @@ upbraid: to scold
 utilitarian: useful
 vital: essential
 vivacious: lively
-acerbic: sharp and forthright
 acquiesce: to accept something reluctantly
 admonish: to warn or reprimand
 apocryphal: of doubtful authenticity
@@ -52,7 +50,6 @@ opprobrium: harsh criticism
 prevaricate: to speak evasively
 problematic: constituting a problem
 proscribe: to forbid
-pungent: sharp taste or smell
 replete: filled
 shard: piece of broken material
 tangential: diverging
