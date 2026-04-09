@@ -6,8 +6,6 @@ emulate: to imitate
 extol: to praise
 inane: silly
 jubilant: extremely joyful
-luminous: bright
-mundane: ordinary
 neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
@@ -17,7 +15,6 @@ propitious: favorable
 quaint: charmingly old-fashioned
 quell: to suppress
 reconcile: to make peace
-renounce: to give up
 reticent: silent
 rouse: to wake up
 sedentary: sitting a lot
