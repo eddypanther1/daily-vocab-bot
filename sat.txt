@@ -4,7 +4,6 @@ eclectic: from various sources
 egregious: outstandingly bad
 emulate: to imitate
 extol: to praise
-inane: silly
 neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
@@ -13,7 +12,6 @@ propensity: a tendency
 propitious: favorable
 quaint: charmingly old-fashioned
 quell: to suppress
-reconcile: to make peace
 reticent: silent
 rouse: to wake up
 sedentary: sitting a lot
@@ -37,7 +35,6 @@ imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
 opprobrium: harsh criticism
-problematic: constituting a problem
 replete: filled
 shard: piece of broken material
 tangential: diverging
