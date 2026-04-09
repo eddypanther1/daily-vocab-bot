@@ -5,7 +5,6 @@ egregious: outstandingly bad
 emulate: to imitate
 extol: to praise
 inane: silly
-jubilant: extremely joyful
 neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
@@ -38,9 +37,7 @@ imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
 opprobrium: harsh criticism
-prevaricate: to speak evasively
 problematic: constituting a problem
-proscribe: to forbid
 replete: filled
 shard: piece of broken material
 tangential: diverging
