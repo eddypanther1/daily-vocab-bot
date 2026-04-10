@@ -1,13 +1,11 @@
 anachronistic: out of chronological order
 caustic: sarcastically biting
-eclectic: from various sources
 egregious: outstandingly bad
 emulate: to imitate
 extol: to praise
 neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
-pretentious: showy
 propensity: a tendency
 propitious: favorable
 quaint: charmingly old-fashioned
@@ -37,6 +35,5 @@ replete: filled
 shard: piece of broken material
 tangential: diverging
 trenchant: vigorous expression
-castigation: punishment; severe criticism
 malingerer: one who feigns illness
 spectrum: colored band
