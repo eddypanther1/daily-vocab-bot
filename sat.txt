@@ -11,7 +11,6 @@ propitious: favorable
 quaint: charmingly old-fashioned
 quell: to suppress
 reticent: silent
-rouse: to wake up
 torrid: very hot
 truncate: to shorten
 upbraid: to scold
@@ -24,13 +23,11 @@ asylum: protection granted by a state
 blight: a thing that damages
 craven: cowardly
 deference: humble submission
-discrete: individually separate
 efficacy: effectiveness
 elicit: to evoke
 imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
-opprobrium: harsh criticism
 replete: filled
 shard: piece of broken material
 tangential: diverging
