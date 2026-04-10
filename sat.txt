@@ -14,7 +14,6 @@ quaint: charmingly old-fashioned
 quell: to suppress
 reticent: silent
 rouse: to wake up
-sedentary: sitting a lot
 torrid: very hot
 truncate: to shorten
 upbraid: to scold
@@ -22,7 +21,6 @@ utilitarian: useful
 vital: essential
 vivacious: lively
 acquiesce: to accept something reluctantly
-admonish: to warn or reprimand
 apocryphal: of doubtful authenticity
 asylum: protection granted by a state
 blight: a thing that damages
@@ -39,7 +37,6 @@ replete: filled
 shard: piece of broken material
 tangential: diverging
 trenchant: vigorous expression
-wheedle: to persuade by flattery
 castigation: punishment; severe criticism
 malingerer: one who feigns illness
 spectrum: colored band
