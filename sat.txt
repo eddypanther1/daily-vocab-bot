@@ -13,12 +13,9 @@ quell: to suppress
 reticent: silent
 torrid: very hot
 truncate: to shorten
-upbraid: to scold
 utilitarian: useful
 vital: essential
-vivacious: lively
 acquiesce: to accept something reluctantly
-apocryphal: of doubtful authenticity
 asylum: protection granted by a state
 blight: a thing that damages
 craven: cowardly
