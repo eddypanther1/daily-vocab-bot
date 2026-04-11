@@ -7,16 +7,13 @@ neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
 propensity: a tendency
-propitious: favorable
 quaint: charmingly old-fashioned
 quell: to suppress
 reticent: silent
-torrid: very hot
 truncate: to shorten
 utilitarian: useful
 vital: essential
 acquiesce: to accept something reluctantly
-asylum: protection granted by a state
 blight: a thing that damages
 craven: cowardly
 deference: humble submission
