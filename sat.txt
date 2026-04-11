@@ -1,7 +1,6 @@
 anachronistic: out of chronological order
 caustic: sarcastically biting
 egregious: outstandingly bad
-emulate: to imitate
 extol: to praise
 neophyte: a beginner
 paucity: scarcity
@@ -15,7 +14,6 @@ utilitarian: useful
 vital: essential
 acquiesce: to accept something reluctantly
 blight: a thing that damages
-craven: cowardly
 deference: humble submission
 efficacy: effectiveness
 elicit: to evoke
@@ -23,7 +21,6 @@ imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
 replete: filled
-shard: piece of broken material
 tangential: diverging
 trenchant: vigorous expression
 malingerer: one who feigns illness
