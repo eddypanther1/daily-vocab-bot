@@ -5,9 +5,7 @@ neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
 propensity: a tendency
-quaint: charmingly old-fashioned
 quell: to suppress
-reticent: silent
 truncate: to shorten
 utilitarian: useful
 vital: essential
@@ -19,6 +17,5 @@ imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
 replete: filled
-tangential: diverging
 trenchant: vigorous expression
 spectrum: colored band
