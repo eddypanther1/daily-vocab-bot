@@ -1,7 +1,6 @@
 anachronistic: out of chronological order
 caustic: sarcastically biting
 egregious: outstandingly bad
-extol: to praise
 neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
@@ -16,12 +15,10 @@ acquiesce: to accept something reluctantly
 blight: a thing that damages
 deference: humble submission
 efficacy: effectiveness
-elicit: to evoke
 imperturbable: calm
 indigence: extreme poverty
 inherent: existing as permanent attribute
 replete: filled
 tangential: diverging
 trenchant: vigorous expression
-malingerer: one who feigns illness
 spectrum: colored band
