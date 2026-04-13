@@ -1,6 +1,4 @@
-anachronistic: out of chronological order
 caustic: sarcastically biting
-neophyte: a beginner
 paucity: scarcity
 propensity: a tendency
 quell: to suppress
@@ -9,4 +7,3 @@ vital: essential
 acquiesce: to accept something reluctantly
 imperturbable: calm
 indigence: extreme poverty
-spectrum: colored band
