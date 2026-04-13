@@ -1,6 +1,5 @@
 anachronistic: out of chronological order
 caustic: sarcastically biting
-egregious: outstandingly bad
 neophyte: a beginner
 paucity: scarcity
 poignant: emotionally moving
@@ -10,9 +9,7 @@ truncate: to shorten
 utilitarian: useful
 vital: essential
 acquiesce: to accept something reluctantly
-deference: humble submission
 imperturbable: calm
 indigence: extreme poverty
 replete: filled
-trenchant: vigorous expression
 spectrum: colored band
