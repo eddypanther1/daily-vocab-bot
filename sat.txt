@@ -1,6 +1,3 @@
 caustic: sarcastically biting
 propensity: a tendency
-quell: to suppress
-vital: essential
-imperturbable: calm
 indigence: extreme poverty
